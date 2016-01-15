@@ -1,8 +1,8 @@
 class ArticleController < ApplicationController
 
   def create
-    title = params[:title].to_s
-    link = params[:link].to_s
+    title = params[:title]
+    link = params[:link]
     data = []
     file_name = Rails.root.to_s + '/README.rdoc'
     File.open(file_name).each do |line|
@@ -10,4 +10,6 @@ class ArticleController < ApplicationController
     end
     render json: data
   end
+  
+  
 end
