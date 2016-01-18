@@ -12,12 +12,12 @@ module DataHelper
         if(is_date(date_str))
           if(Date.parse(date_str) == Date.today)
             data.push line
-            data.push "[#{title}](#{link})\r\n"
+            data.push "[#{title}](#{link})\r\\n"
             changed = true
             inserted = true
           elsif(Date.parse(date_str) < Date.today)
-            data.push "### #{Date.today}\r\n"
-            data.push "[#{title}](#{link})\r\n"
+            data.push "### #{Date.today}\r\\n"
+            data.push "[#{title}](#{link})\r\\n"
             data.push "\r\n"
           end
         end
@@ -28,9 +28,9 @@ module DataHelper
       changed = false
     end
     if(!inserted)
-       data.push "### #{Date.today}\r\n"
-       data.push "[#{title}](#{link})\r\n"
-       data.push "\r\n"
+       data.push "### #{Date.today}\r\\n"
+       data.push "[#{title}](#{link})\r\\n"
+       data.push "\r\\n"
     end
     data
   end

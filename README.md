@@ -1,5 +1,5 @@
 ### 2016-01-18  
-[david-wei (lighters)](https://github.com/david-wei)
+[tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)\n[david-wei (lighters)](https://github.com/david-wei)
 [首页 - 简书](http://www.jianshu.com/)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
