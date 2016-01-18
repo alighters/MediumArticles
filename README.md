@@ -2,10 +2,7 @@
 + [Android Application Performance — Step 2: Compute](https://medium.com/@elifbon/android-application-performance-step-2-compute-1ceb582a46f5#.j9eoede0v)
 + [Android Application Performance — Step 3: Memory](https://medium.com/@elifbon/android-application-performance-step-3-memory-e490ae6406b8#.owt3c6xz3)
 
-### 2016-01-18<br>
-+ [每日阅读 - 文集 - 简书](http://www.jianshu.com/notebooks/2917599/latest)
-<br>
-<br>### 2016-01-17
+### 2016-01-18
 + [TDD and React Components — Medium](https://medium.com/@nackjicholsonn/tdd-and-react-components-5ae5a9a5a7bf#.2l33bo1ho)<br>
 + [5 Reasons to Learn Redux — Medium](https://medium.com/@dbuarque/5-reasons-to-learn-redux-768e21a384c7#.oqv67n9kw)<br>
 + [How to make HTTP calls on Android with Retrofit 2](https://medium.com/@shelajev/how-to-make-http-calls-on-android-with-retrofit-2-cfc4a67c6254#.i0shz8n66)
