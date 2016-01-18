@@ -4,7 +4,7 @@ class ArticleController < ApplicationController
     title = params[:title]
     link = params[:link]
     data = []
-    file_name = Rails.root.to_s + '/README.rdoc'
+    file_name = Rails.root.to_s + '/README.md'
     status = 'ok'
     if title.nil? or link.nil?
       status = 'error'
