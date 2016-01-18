@@ -1,5 +1,6 @@
 ### 2016-01-18
-[每日阅读 - 文集 - 简书](http://www.jianshu.com/notebooks/2917599/latest)
+[Markdown | GitHub Developer Guide](https://developer.github.com/v3/markdown/)
+<br>[每日阅读 - 文集 - 简书](http://www.jianshu.com/notebooks/2917599/latest)
 [aaa](http://www.baidu.com)
 [aaa](http://www.baidu.com)
 [aaa](http://www.baidu.com)
