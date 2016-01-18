@@ -5,10 +5,16 @@ class ArticleController < ApplicationController
     link = params[:link]
     data = []
     file_name = Rails.root.to_s + '/README.rdoc'
-    File.open(file_name).each do |line|
-      data.push(line)
+    status = 'ok'
+    if title.nil? or link.nil?
+      status = 'error'
+    else
+      data = DataHelper.append_to(file_name, title, link)
+      if !data.nil?
+        DataHelper.write_to(file_name, data)
+      end
     end
-    render json: data
+    render json: {'status' => status, 'data' => data}
   end
   
   

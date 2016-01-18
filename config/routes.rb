@@ -55,4 +55,7 @@ Rails.application.routes.draw do
   #   end
 
   get "create" => "article#create"
+
+  resources :welcome
+  get 'index' => "welcome#index"
 end
