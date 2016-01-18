@@ -28,9 +28,9 @@ module DataHelper
       changed = false
     end
     if(!inserted)
-       data.push "### #{Date.today}\n"
-       data.push "[#{title}](#{link})\n"
-       data.push "\n"
+       data.push "### #{Date.today}\n<br>"
+       data.push "[#{title}](#{link})\n<br>"
+       data.push "\n<br>"
     end
     data
   end
