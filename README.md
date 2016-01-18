@@ -1,5 +1,6 @@
 ### 2016-01-18  
-[tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)\n[david-wei (lighters)](https://github.com/david-wei)
+[Expand a RecyclerView in Four Steps | Big Nerd Ranch](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/)
+<br>[tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)\n[david-wei (lighters)](https://github.com/david-wei)
 [首页 - 简书](http://www.jianshu.com/)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
