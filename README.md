@@ -1,4 +1,5 @@
 ### 2016-01-18  
+[首页 - 简书](http://www.jianshu.com/)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
 [david-wei/MediumArticles: Record the meaningful articles from medium about Android and React tech.](https://github.com/david-wei/MediumArticles)
 [百度一下，你就知道](https://www.baidu.com/)
