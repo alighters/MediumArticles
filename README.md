@@ -3,7 +3,8 @@
 + [Android Application Performance — Step 3: Memory](https://medium.com/@elifbon/android-application-performance-step-3-memory-e490ae6406b8#.owt3c6xz3)
 
 ### 2016-01-18
-[5 Reasons to Learn Redux — Medium](https://medium.com/@dbuarque/5-reasons-to-learn-redux-768e21a384c7#.oqv67n9kw)
+[TDD and React Components — Medium](https://medium.com/@nackjicholsonn/tdd-and-react-components-5ae5a9a5a7bf#.2l33bo1ho)
+<br>[5 Reasons to Learn Redux — Medium](https://medium.com/@dbuarque/5-reasons-to-learn-redux-768e21a384c7#.oqv67n9kw)
 <br>+ [How to make HTTP calls on Android with Retrofit 2](https://medium.com/@shelajev/how-to-make-http-calls-on-android-with-retrofit-2-cfc4a67c6254#.i0shz8n66)
 + [Using an EventBus in Android Pt 1: Why an EventBus?](https://medium.com/@cainwong/using-an-eventbus-in-android-pt-1-why-an-eventbus-c2c9cdff41d7#.r75by66lg)
 + [Reactjs Skeleton — with gulp and browserify
