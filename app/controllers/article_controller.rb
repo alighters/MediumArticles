@@ -14,6 +14,7 @@ class ArticleController < ApplicationController
         DataHelper.write_to(file_name, data)
       end
     end
+    GitHelper.commit(title)
     render json: {'status' => status, 'data' => data}
   end
   
