@@ -8,17 +8,22 @@ module DataHelper
 
     File.open(file_name).each do |line|
       if !inserted and line.start_with?('###') 
+        # 当前行为具体的日期
         date_str = line.slice(3, line.length).squish
         if(is_date(date_str))
+          # 当前日期为今天，则在当前天下添加新的一行数据
           if(Date.parse(date_str) == Date.today)
             data.push line
             data.push "+ [#{title}](#{link})<br>\n"
             changed = true
             inserted = true
+          # 当前日期小于今天，则新建今天的数据
           elsif(Date.parse(date_str) < Date.today)
             data.push "### #{Date.today}<br>\n"
             data.push "+ [#{title}](#{link})\n<br>"
             data.push "<br>\n"
+            changed = true
+            inserted = false
           end
         end
       end
@@ -27,6 +32,7 @@ module DataHelper
       end
       changed = false
     end
+    # 若没有添加，则表示是个新建的文件，直接添加今天的数据
     if(!inserted)
        data.push "### #{Date.today}<br>\n"
        data.push "+ [#{title}](#{link})<br>\n"
@@ -44,6 +50,7 @@ module DataHelper
     file.close
   end
 
+  # 判断字符是否为一个日期
   def self.is_date(str)
     result = false
     begin
