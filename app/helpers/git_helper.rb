@@ -9,6 +9,6 @@ module GitHelper
       system 'git pull --rebase'
       system 'git push'
     end
-    Process.kill pid
+    Process.kill t
   end
 end
