@@ -1,4 +1,6 @@
 ### 2016-02-01
++ [Moving to React-Redux in baby steps — Medium](https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf#.diknocj68)<br>
++ [Moving to React-Redux in baby steps — Medium](https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf#.diknocj68)<br>
 + [Action Controller: Exception caught](http://localhost:3000/create?link=https%3A%2F%2Fmedium.com%2F%40royisch%2Fmoving-to-react-redux-in-baby-steps-aea0402624bf%23.diknocj68&title=Moving%20to%20React-Redux%20in%20baby%20steps%20%E2%80%94%20Medium&_t=1454330966879)<br>
 + [Moving to React-Redux in baby steps — Medium](https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf#.diknocj68)<br>
 + [Moving to React-Redux in baby steps — Medium](https://medium.com/@royisch/moving-to-react-redux-in-baby-steps-aea0402624bf#.diknocj68)<br>
