@@ -22,6 +22,7 @@ module DataHelper
             data.push "### #{Date.today}<br>\n"
             data.push "+ [#{title}](#{link})<br>\n"
             data.push "<br>\n"
+            data.push "\r\n"
             inserted = true
           end
         end
