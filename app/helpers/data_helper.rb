@@ -9,7 +9,7 @@ module DataHelper
     File.open(file_name).each do |line|
       if !inserted and line.start_with?('###') 
         # 当前行为具体的日期
-        date_str = line.slice(3, line.length).squish
+        date_str = line.slice(3, 3 + 10).squish
         if(is_date(date_str))
           # 当前日期为今天，则在当前天下添加新的一行数据
           if(Date.parse(date_str) == Date.today)
@@ -22,8 +22,6 @@ module DataHelper
             data.push "### #{Date.today}<br>\n"
             data.push "+ [#{title}](#{link})\n<br>"
             data.push "<br>\n"
-            changed = true
-            inserted = false
           end
         end
       end
