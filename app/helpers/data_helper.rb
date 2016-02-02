@@ -20,8 +20,8 @@ module DataHelper
           # 当前日期小于今天，则新建今天的数据
           elsif(Date.parse(date_str) < Date.today)
             data.push "### #{Date.today}<br>\n"
-            data.push "+ [#{title}](#{link})\n<br>"
-            data.push "\n"
+            data.push "+ [#{title}](#{link})<br>\n"
+            data.push "<br>\n"
             inserted = true
           end
         end
