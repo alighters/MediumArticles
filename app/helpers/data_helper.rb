@@ -21,7 +21,6 @@ module DataHelper
           elsif(Date.parse(date_str) < Date.today)
             data.push "### #{Date.today}<br>\n"
             data.push "+ [#{title}](#{link})<br>\n"
-            data.push "<br>\n"
             data.push "\r\n"
             inserted = true
           end
@@ -36,7 +35,7 @@ module DataHelper
     if(!inserted)
        data.push "### #{Date.today}<br>\n"
        data.push "+ [#{title}](#{link})<br>\n"
-       data.push "<br>\n"
+       data.push "\r\n"
     end
     data
   end
