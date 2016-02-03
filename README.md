@@ -1,4 +1,5 @@
 ### 2016-02-03<br>
++ [Architecting Android…The evolution | Fernando Cejas](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)<br>
 + [Architecting Android…The clean way? | Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)<br>
 
 ### 2016-02-02<br>
