@@ -1,4 +1,5 @@
 ### 2016-02-03<br>
++ [MVVM on Android: What You Need to Know](http://willowtreeapps.com/blog/mvvm-on-android-what-you-need-to-know/)<br>
 + [The Mayans Lost Guide to RxJava on Android // Speaker Deck](https://speakerdeck.com/android10/the-mayans-lost-guide-to-rxjava-on-android)<br>
 + [It is about philosophy: culture of a good programmer // Speaker Deck](https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer)<br>
 + [Java Practices -> Package by feature, not layer](http://www.javapractices.com/topic/TopicAction.do?Id=205)<br>
