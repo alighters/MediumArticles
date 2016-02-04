@@ -1,3 +1,6 @@
+### 2016-02-04<br>
++ [Clean Code in Android Development resources — Medium](https://medium.com/@nicolausyes/clean-code-in-android-development-resources-20de95ec74f8#.aylv69ies)<br>
+
 ### 2016-02-03<br>
 + [MVVM on Android: What You Need to Know](http://willowtreeapps.com/blog/mvvm-on-android-what-you-need-to-know/)<br>
 + [The Mayans Lost Guide to RxJava on Android // Speaker Deck](https://speakerdeck.com/android10/the-mayans-lost-guide-to-rxjava-on-android)<br>
