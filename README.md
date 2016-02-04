@@ -1,4 +1,5 @@
 ### 2016-02-04<br>
++ [10 things didn’t know about Android’s Service component — Medium](https://medium.com/@workingkills/10-things-didn-t-know-about-android-s-service-component-a2880b74b2b3#.dq8vu85h7)<br>
 + [Tasting Dagger 2 on Android | Fernando Cejas](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)<br>
 + [Clean Code in Android Development resources — Medium](https://medium.com/@nicolausyes/clean-code-in-android-development-resources-20de95ec74f8#.aylv69ies)<br>
 
