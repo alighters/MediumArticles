@@ -1,4 +1,5 @@
 ### 2016-02-04<br>
++ [Tasting Dagger 2 on Android | Fernando Cejas](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)<br>
 + [Clean Code in Android Development resources — Medium](https://medium.com/@nicolausyes/clean-code-in-android-development-resources-20de95ec74f8#.aylv69ies)<br>
 
 ### 2016-02-03<br>
