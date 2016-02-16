@@ -1,3 +1,6 @@
+### 2016-02-16<br>
++ [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.e1qja6tn3)<br>
+
 ### 2016-02-04<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.w77g1348s)<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.w77g1348s)<br>
