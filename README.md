@@ -1,4 +1,5 @@
 ### 2016-02-16<br>
++ [If you like Material design then try to materialize smth! — Android & Tech — Medium](https://medium.com/android-news/if-you-like-material-design-then-try-to-materialize-smth-13ddea87a775#.ymfke4s22)<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.e1qja6tn3)<br>
 
 ### 2016-02-04<br>
