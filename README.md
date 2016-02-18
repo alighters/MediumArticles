@@ -1,3 +1,6 @@
+### 2016-02-18<br>
++ [Intercepting everything with CoordinatorLayout Behaviors — Google Developers — Medium](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.zowaqbjbv)<br>
+
 ### 2016-02-04<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.w77g1348s)<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.w77g1348s)<br>
