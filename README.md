@@ -1,5 +1,11 @@
 ### 2016-02-18<br>
++ [Layouts, Attributes, and you — Medium](https://medium.com/@ianhlake/layouts-attributes-and-you-9e5a4b4fe32c#.ezx3pehzy)<br>
 + [Intercepting everything with CoordinatorLayout Behaviors — Google Developers — Medium](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.zowaqbjbv)<br>
+
+### 2016-02-16<br>
++ [Building Android Apps — 30 things that experience made me learn the hard way — Medium](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.ap507vht9)<br>
++ [If you like Material design then try to materialize smth! — Android & Tech — Medium](https://medium.com/android-news/if-you-like-material-design-then-try-to-materialize-smth-13ddea87a775#.ymfke4s22)<br>
++ [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.e1qja6tn3)<br>
 
 ### 2016-02-04<br>
 + [A detailed guide on developing Android apps using the Clean Architecture pattern — Medium](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.w77g1348s)<br>
