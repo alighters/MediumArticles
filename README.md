@@ -1,4 +1,5 @@
 ### 2016-02-19<br>
++ [Design Patterns: Abstract Factory — Software Engineering 101 — Medium](https://medium.com/software-engineering-101/design-patterns-abstract-factory-39a22985bdbf#.ekf9kk198)<br>
 + [Intercepting everything with CoordinatorLayout Behaviors — Google Developers — Medium](https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26#.zowaqbjbv)<br>
 + [Splash Screens the Right Way | Big Nerd Ranch](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)<br>
 
