@@ -1,3 +1,6 @@
+### 2016-02-19<br>
++ [Splash Screens the Right Way | Big Nerd Ranch](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)<br>
+
 ### 2016-02-18<br>
 + [Why would I want to fitsSystemWindows? — Google Developers — Medium](https://medium.com/google-developers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.7h5i86y2f)<br>
 + [Layouts, Attributes, and you — Medium](https://medium.com/@ianhlake/layouts-attributes-and-you-9e5a4b4fe32c#.ezx3pehzy)<br>
