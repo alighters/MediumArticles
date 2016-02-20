@@ -1,4 +1,5 @@
 ### 2016-02-20<br>
++ [gk5885/dagger-android-sample: A small, simple Android application that uses Dagger 2.](https://github.com/gk5885/dagger-android-sample)<br>
 + [DAGGER 2 - A New Type of dependency injection - YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)<br>
 + [Tasting Dagger 2 on Android | Fernando Cejas](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)<br>
 
