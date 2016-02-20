@@ -1,3 +1,6 @@
+### 2016-02-20<br>
++ [Tasting Dagger 2 on Android | Fernando Cejas](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)<br>
+
 ### 2016-02-19<br>
 + [7 Effective and Golden Rules for Android Application Development. — Medium](https://medium.com/@twistfuture/7-effective-and-golden-rules-for-android-application-development-2312c0bbf63f#.f3tf80ikx)<br>
 + [Design Patterns: Abstract Factory — Software Engineering 101 — Medium](https://medium.com/software-engineering-101/design-patterns-abstract-factory-39a22985bdbf#.ekf9kk198)<br>
