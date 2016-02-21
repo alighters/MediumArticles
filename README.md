@@ -1,4 +1,5 @@
 ### 2016-02-21<br>
++ [Android Studio: Layout preview — David Developer — Medium](https://medium.com/david-developer/android-studio-layout-preview-ef713c3cd77b#.2slqatttb)<br>
 + [CheckedTextView does not save its state. — Android Dev — Medium](https://medium.com/android-dev/checkedtextview-does-not-save-its-state-43903ab19de#.o335g3sp2)<br>
 
 ### 2016-02-20<br>
