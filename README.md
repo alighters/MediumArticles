@@ -1,3 +1,6 @@
+### 2016-02-21<br>
++ [CheckedTextView does not save its state. — Android Dev — Medium](https://medium.com/android-dev/checkedtextview-does-not-save-its-state-43903ab19de#.o335g3sp2)<br>
+
 ### 2016-02-20<br>
 + [gk5885/dagger-android-sample: A small, simple Android application that uses Dagger 2.](https://github.com/gk5885/dagger-android-sample)<br>
 + [DAGGER 2 - A New Type of dependency injection - YouTube](https://www.youtube.com/watch?v=oK_XtfXPkqw)<br>
