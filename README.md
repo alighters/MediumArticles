@@ -1,4 +1,5 @@
 ### 2016-02-22<br>
++ [Understanding git for real by exploring the .git directory — Medium](https://medium.com/@pierreda/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.6o76f0mrx)<br>
 + [Dependency Injection with Dagger 2 · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2)<br>
 
 ### 2016-02-21<br>
