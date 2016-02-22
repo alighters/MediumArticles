@@ -1,3 +1,6 @@
+### 2016-02-22<br>
++ [Dependency Injection with Dagger 2 · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2)<br>
+
 ### 2016-02-21<br>
 + [Applying meaningful motion on Android — Medium](https://medium.com/@andremion/applying-meaningful-motion-on-android-a271a873bd78#.z5mbdbgbp)<br>
 + [Android Studio: Layout preview — David Developer — Medium](https://medium.com/david-developer/android-studio-layout-preview-ef713c3cd77b#.2slqatttb)<br>
