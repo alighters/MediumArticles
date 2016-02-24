@@ -1,3 +1,6 @@
+### 2016-02-24<br>
++ [Square Island: Dagger 2 + Espresso 2 + Mockito](http://blog.sqisland.com/2015/04/dagger-2-espresso-2-mockito.html)<br>
+
 ### 2016-02-23<br>
 + [6 tips to speed up your Gradle build — Medium](https://medium.com/@shelajev/6-tips-to-speed-up-your-gradle-build-3d98791d3df9#.u8ucht8vr)<br>
 
