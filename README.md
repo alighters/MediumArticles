@@ -1,3 +1,6 @@
+### 2016-02-25<br>
++ [AppCompat v23.2 — Age of the vectors — Medium](https://medium.com/@chrisbanes/appcompat-v23-2-age-of-the-vectors-91cbafa87c88#.c4qzlhp10)<br>
+
 ### 2016-02-24<br>
 + [chiuki/android-test-demo: Android testing with Dagger 2, Espresso 2 and Mockito](https://github.com/chiuki/android-test-demo)<br>
 + [Square Island: Dagger 2 + Espresso 2 + Mockito](http://blog.sqisland.com/2015/04/dagger-2-espresso-2-mockito.html)<br>
