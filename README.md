@@ -1,4 +1,5 @@
 ### 2016-02-26<br>
++ [miquelbeltran/java-dagger-example: Extremely simple example showing how to use Dagger 2.0 on Java](https://github.com/miquelbeltran/java-dagger-example)<br>
 + [Dagger ‡ A fast dependency injector for Android and Java.](http://google.github.io/dagger/users-guide.html)<br>
 + [Understanding Dagger 2 — Medium](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.rpgz3ilcf)<br>
 
