@@ -1,3 +1,6 @@
+### 2016-02-26<br>
++ [Understanding Dagger 2 — Medium](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.rpgz3ilcf)<br>
+
 ### 2016-02-25<br>
 + [AppCompat v23.2 — Age of the vectors — Medium](https://medium.com/@chrisbanes/appcompat-v23-2-age-of-the-vectors-91cbafa87c88#.c4qzlhp10)<br>
 
