@@ -1,4 +1,5 @@
 ### 2016-02-26<br>
++ [Dagger ‡ A fast dependency injector for Android and Java.](http://google.github.io/dagger/users-guide.html)<br>
 + [Understanding Dagger 2 — Medium](https://medium.com/@Miqubel/understanding-dagger-2-367ff1bd184f#.rpgz3ilcf)<br>
 
 ### 2016-02-25<br>
