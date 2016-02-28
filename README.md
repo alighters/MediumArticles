@@ -1,3 +1,6 @@
+### 2016-02-28<br>
++ [Giving better code reviews — Medium](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.53nz0p1wn)<br>
+
 ### 2016-02-27<br>
 + [How React is transforming the web and mobile development — Medium](https://medium.com/@shwetapal/how-react-is-transforming-the-web-and-mobile-development-e44789444548#.eiptl693e)<br>
 
