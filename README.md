@@ -1,5 +1,6 @@
 ### 2016-02-28<br>
 + [Class: Date (Ruby 2.3.0)](http://ruby-doc.org/stdlib-2.3.0/libdoc/date/rdoc/Date.html)<br>
++ [Class: Date (Ruby 2.3.0)](http://ruby-doc.org/stdlib-2.3.0/libdoc/date/rdoc/Date.html)<br>
 + [Giving better code reviews — Medium](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.53nz0p1wn)<br>
 
 ### 2016-02-27<br>
