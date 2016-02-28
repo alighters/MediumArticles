@@ -9,6 +9,7 @@ class ArticleController < ApplicationController
     if title.nil? or link.nil?
       status = 'error'
     else
+      DataHelper.check_file
       data = DataHelper.append_to(file_name, title, link)
       if !data.nil?
         DataHelper.write_to(file_name, data)

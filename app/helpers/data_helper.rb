@@ -40,6 +40,13 @@ module DataHelper
     data
   end
 
+  # 检查文件，若当天为第一天，则重命名ReadMe为上个月份的文件，另新建一个ReadMe文件。
+  def self.check_file
+    if Date.today.at_beginning_of_month == Date.today
+      logger.info Date.today.at_beginning_of_month 
+    end
+  end
+
   # 向文件中写入data
   def self.write_to(file_name, data)
     file = File.new(file_name, 'w+')
