@@ -1,5 +1,7 @@
 module DataHelper
 
+  require 'logger'
+
   # 根据文件获取添入标题和链接之后的最新文本内容
   def self.append_to(file_name, title, link)
     data = []
@@ -38,13 +40,6 @@ module DataHelper
        data.push "\r\n"
     end
     data
-  end
-
-  # 检查文件，若当天为第一天，则重命名ReadMe为上个月份的文件，另新建一个ReadMe文件。
-  def self.check_file
-    if Date.today.at_beginning_of_month == Date.today
-      logger.info "****************"#{Date.today.at_beginning_of_month}
-    end
   end
 
   # 向文件中写入data

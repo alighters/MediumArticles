@@ -9,7 +9,11 @@ class ArticleController < ApplicationController
     if title.nil? or link.nil?
       status = 'error'
     else
-      DataHelper.check_file
+      if(Date.today.at_beggin_of_month == Date.today)
+        new_file_name = "#{Rails.root.to_s}/#{Date.today.strftime('%Y-%m').to_s}.md"
+        File.rename(file_name, new_file_name)
+        File.new(file_name, 'w+')
+      end
       data = DataHelper.append_to(file_name, title, link)
       if !data.nil?
         DataHelper.write_to(file_name, data)
