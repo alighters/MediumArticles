@@ -1,7 +1,5 @@
 module DataHelper
 
-  require 'logger'
-
   # 根据文件获取添入标题和链接之后的最新文本内容
   def self.append_to(file_name, title, link)
     data = []
