@@ -9,7 +9,7 @@ class ArticleController < ApplicationController
     if title.nil? or link.nil?
       status = 'error'
     else
-      if(Date.today.at_beggin_of_month == Date.today)
+      if(Date.today.mday == 1)
         new_file_name = "#{Rails.root.to_s}/#{Date.today.strftime('%Y-%m').to_s}.md"
         File.rename(file_name, new_file_name)
         File.new(file_name, 'w+')
