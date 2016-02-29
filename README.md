@@ -1,3 +1,6 @@
+### 2016-02-29<br>
++ [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)<br>
+
 ### 2016-02-28<br>
 + [Giving better code reviews — Medium](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.53nz0p1wn)<br>
 
