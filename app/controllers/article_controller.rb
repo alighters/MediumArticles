@@ -11,8 +11,10 @@ class ArticleController < ApplicationController
     else
       if(Date.today.mday == 1)
         new_file_name = "#{Rails.root.to_s}/#{Date.today.prev_day.strftime('%Y-%m').to_s}.md"
-        File.rename(file_name, new_file_name)
-        File.new(file_name, 'w+')
+        if(!File.exists?(new_file_name))
+          File.rename(file_name, new_file_name)
+          File.new(file_name, 'w+')
+        end
       end
       data = DataHelper.append_to(file_name, title, link)
       if !data.nil?
