@@ -1,3 +1,6 @@
+### 2016-03-02<br>
++ [Component (Dagger (Parent) 2.1-SNAPSHOT API)](http://google.github.io/dagger/api/latest/dagger/Component.html)<br>
+
 ### 2016-03-01<br>
 + [lgvalle/android-flux-todo-app: Example of how to implement an Android TODO App using Facebook Flux Architecture](https://github.com/lgvalle/android-flux-todo-app)<br>
 + [Android App 架构 “Flux” - 简书](http://www.jianshu.com/p/918719151e72)<br>
