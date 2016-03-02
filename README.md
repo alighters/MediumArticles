@@ -1,4 +1,5 @@
 ### 2016-03-02<br>
++ [petehunt/react-howto at 6f09237b19773764a1fc35becf03b767548491ff: Your guide to the (sometimes overwhelming!) React ecosystem.](https://github.com/petehunt/react-howto/tree/6f09237b19773764a1fc35becf03b767548491ff)<br>
 + [Component (Dagger (Parent) 2.1-SNAPSHOT API)](http://google.github.io/dagger/api/latest/dagger/Component.html)<br>
 
 ### 2016-03-01<br>
