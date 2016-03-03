@@ -1,4 +1,5 @@
 ### 2016-03-03<br>
++ [frogermcs/GithubClient: Example of Github API client implemented on top of Dagger 2 DI framework.](https://github.com/frogermcs/GithubClient)<br>
 + [Dependency injection with Dagger 2 - Custom scopes – froger_mcs dev blog – Coding with love {❤️}](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)<br>
 
 ### 2016-03-02<br>
