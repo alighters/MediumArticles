@@ -1,4 +1,5 @@
 ### 2016-03-03<br>
++ [Java, Ruby, and Go, Oh My! — Free Code Camp — Medium](https://medium.freecodecamp.com/java-ruby-and-go-oh-my-6b5577ba2bc2#.5n6x84tuq)<br>
 + [frogermcs/GithubClient: Example of Github API client implemented on top of Dagger 2 DI framework.](https://github.com/frogermcs/GithubClient)<br>
 + [Dependency injection with Dagger 2 - Custom scopes – froger_mcs dev blog – Coding with love {❤️}](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)<br>
 
