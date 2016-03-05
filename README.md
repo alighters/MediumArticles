@@ -1,3 +1,6 @@
+### 2016-03-05<br>
++ [Simple Ripple + Reveal + Elevation tutorial](http://trickyandroid.com/simple-ripple-reveal-elevation-tutorial/)<br>
+
 ### 2016-03-04<br>
 + [frogermcs/AndroidDevMetrics: Performance metrics library for Android development (includes dagger2metrics)](https://github.com/frogermcs/androiddevmetrics)<br>
 + [AndroidDevMetrics — app performance metrics for Android development — Medium](https://medium.com/@froger_mcs/androiddevmetrics-app-performance-metrics-for-android-development-eb854dfd9712#.rucgtjs4i)<br>
