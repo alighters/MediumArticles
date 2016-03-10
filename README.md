@@ -1,4 +1,5 @@
 ### 2016-03-10<br>
++ [On communication between V and P in Android-MVP — Medium](https://medium.com/@nbarishok/on-communication-between-v-and-p-in-android-mvp-16caf773e1a5#.1inrqke6o)<br>
 + [Architecting Android with Data Binding and MVVM in mind — COBE Mobile — Medium](https://medium.com/cobe-mobile/architecting-android-with-data-binding-and-mvvm-in-mind-8874bbec0b0d#.in0gmo6sp)<br>
 
 ### 2016-03-09<br>
