@@ -1,4 +1,5 @@
 ### 2016-03-10<br>
++ [从开发者角度解析 Android N 新特性！](http://gank.io/post/56e0b83c67765963436fcb94)<br>
 + [nbarishok/RxMvpAndroid at mvp_experiment: Sample to show how MVP, Clean Architecture and RxJava can help you in building Android App.](https://github.com/nbarishok/RxMvpAndroid/tree/mvp_experiment)<br>
 + [On communication between V and P in Android-MVP — Medium](https://medium.com/@nbarishok/on-communication-between-v-and-p-in-android-mvp-16caf773e1a5#.1inrqke6o)<br>
 + [Architecting Android with Data Binding and MVVM in mind — COBE Mobile — Medium](https://medium.com/cobe-mobile/architecting-android-with-data-binding-and-mvvm-in-mind-8874bbec0b0d#.in0gmo6sp)<br>
