@@ -1,4 +1,5 @@
 ### 2016-03-11<br>
++ [hooopo/direct_web_spider: A direct web spider framworks for Ruby](https://github.com/hooopo/direct_web_spider)<br>
 + [sparklemotion/mechanize: Mechanize is a ruby library that makes automated web interaction easy.](https://github.com/sparklemotion/mechanize)<br>
 
 ### 2016-03-10<br>
