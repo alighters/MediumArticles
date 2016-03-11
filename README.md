@@ -1,3 +1,6 @@
+### 2016-03-11<br>
++ [sparklemotion/mechanize: Mechanize is a ruby library that makes automated web interaction easy.](https://github.com/sparklemotion/mechanize)<br>
+
 ### 2016-03-10<br>
 + [skimarxall/RxFlux: RxFlux is a small framework in order to follow Flux design pattern with RxJava functionalities](https://github.com/skimarxall/RxFlux)<br>
 + [从开发者角度解析 Android N 新特性！](http://gank.io/post/56e0b83c67765963436fcb94)<br>
