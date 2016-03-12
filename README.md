@@ -1,3 +1,6 @@
+### 2016-03-12<br>
++ [Finding the best image loading library for Android: Glide! — Medium](https://medium.com/@StenSuitsev/finding-the-best-image-loading-library-for-android-glide-babb450a36b9#.791pcaa6t)<br>
+
 ### 2016-03-11<br>
 + [Dependency injection with Dagger 2 — Producers — Medium](https://medium.com/@froger_mcs/dependency-injection-with-dagger-2-producers-c424ddc60ba3#.pf3sxerex)<br>
 + [用Flux架构搭建Android项目ui架构这些事 - 简书](http://www.jianshu.com/p/4b755df66a97)<br>
