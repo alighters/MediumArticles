@@ -1,3 +1,6 @@
+### 2016-03-13<br>
++ [Getting Started with Nokogiri](https://blog.engineyard.com/2010/getting-started-with-nokogiri)<br>
+
 ### 2016-03-12<br>
 + [Finding the best image loading library for Android: Glide! — Medium](https://medium.com/@StenSuitsev/finding-the-best-image-loading-library-for-android-glide-babb450a36b9#.791pcaa6t)<br>
 
