@@ -1,3 +1,6 @@
+### 2016-03-14<br>
++ [Android Event Handlers — Medium](https://medium.com/@charlesdrews/android-event-handlers-f3681a3c3d8a#.4v7qxaz9f)<br>
+
 ### 2016-03-13<br>
 + [Getting Started with Nokogiri](https://blog.engineyard.com/2010/getting-started-with-nokogiri)<br>
 
