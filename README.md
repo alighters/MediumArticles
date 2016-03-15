@@ -1,4 +1,5 @@
 ### 2016-03-15<br>
++ [Modeling my presentation layer - Christian Panadero](http://panavtec.me/modeling-presentation-layer/)<br>
 + [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)<br>
 + [推荐 Ruby Gem 列表 - Wiki » Ruby China](https://ruby-china.org/wiki/gems)<br>
 
