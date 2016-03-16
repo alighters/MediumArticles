@@ -1,3 +1,6 @@
+### 2016-03-16<br>
++ [RxJava — One Observable, Multiple Subscribers, Same Data — Medium](https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.cvpch28zh)<br>
+
 ### 2016-03-15<br>
 + [Modeling my presentation layer - Christian Panadero](http://panavtec.me/modeling-presentation-layer/)<br>
 + [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)<br>
