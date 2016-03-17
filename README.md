@@ -1,3 +1,6 @@
+### 2016-03-17<br>
++ [Best Gitter channels for: Android Developers — Android & Tech — Medium](https://medium.com/android-news/best-gitter-channels-for-android-developers-fa9c786a20a#.qrqaa1521)<br>
+
 ### 2016-03-16<br>
 + [RxJava — One Observable, Multiple Subscribers, Same Data — Medium](https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.cvpch28zh)<br>
 
