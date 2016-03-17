@@ -1,4 +1,5 @@
 ### 2016-03-17<br>
++ [capistrano半自动部署rails程序 - 简书](http://www.jianshu.com/p/3417c69a824a)<br>
 + [Best Gitter channels for: Android Developers — Android & Tech — Medium](https://medium.com/android-news/best-gitter-channels-for-android-developers-fa9c786a20a#.qrqaa1521)<br>
 
 ### 2016-03-16<br>
