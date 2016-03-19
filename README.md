@@ -1,3 +1,6 @@
+### 2016-03-19<br>
++ [Deploy your code with Capistrano  •  Beanstalk Guides](http://guides.beanstalkapp.com/deployments/deploy-with-capistrano.html)<br>
+
 ### 2016-03-18<br>
 + [How To Deploy a Rails App with Unicorn and Nginx on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04)<br>
 
