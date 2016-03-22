@@ -1,3 +1,6 @@
+### 2016-03-23<br>
++ [AndroidFlux项目一览-Flux架构的Android移植 - 简书](http://www.jianshu.com/p/896ce1a8e4ed)<br>
+
 ### 2016-03-22<br>
 + [Writing a Web Crawler | The Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/web-crawling/)<br>
 + [Parsing HTML with Nokogiri | The Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/html-parsing/)<br>
