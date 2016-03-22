@@ -1,4 +1,5 @@
 ### 2016-03-22<br>
++ [Writing a Web Crawler | The Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/web-crawling/)<br>
 + [Parsing HTML with Nokogiri | The Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/html-parsing/)<br>
 
 ### 2016-03-21<br>
