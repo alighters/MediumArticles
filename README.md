@@ -1,4 +1,5 @@
 ### 2016-03-23<br>
++ [Flux Architecture on Android · Luis Valle](http://lgvalle.xyz/2015/08/04/flux-architecture/)<br>
 + [AndroidFlux项目一览-Flux架构的Android移植 - 简书](http://www.jianshu.com/p/896ce1a8e4ed)<br>
 
 ### 2016-03-22<br>
