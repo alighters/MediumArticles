@@ -1,3 +1,6 @@
+### 2016-03-26<br>
++ [Java 动态代理作用是什么？ - 知乎](https://www.zhihu.com/question/20794107)<br>
+
 ### 2016-03-25<br>
 + [simple library publishing with Gradle](http://zserge.com/blog/gradle-maven-publish.html)<br>
 
