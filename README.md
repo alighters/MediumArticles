@@ -1,3 +1,6 @@
+### 2016-03-27<br>
++ [Java 8 Stream on Android — Medium](https://medium.com/@nicopasso/java-8-stream-on-android-c629e4237d5f#.knrk615sm)<br>
+
 ### 2016-03-26<br>
 + [Java 动态代理作用是什么？ - 知乎](https://www.zhihu.com/question/20794107)<br>
 
