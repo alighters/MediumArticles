@@ -1,3 +1,6 @@
+### 2016-03-28<br>
++ [Linux Shell 文本处理工具 | 程序员的资料库](http://codecloud.net/linux-shell-text-tools-7206.html)<br>
+
 ### 2016-03-27<br>
 + [Java 8 Stream on Android — Medium](https://medium.com/@nicopasso/java-8-stream-on-android-c629e4237d5f#.knrk615sm)<br>
 
