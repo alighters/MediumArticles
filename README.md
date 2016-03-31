@@ -1,3 +1,6 @@
+### 2016-03-31<br>
++ [Dagger 2 and Base Classes — Generics and Presenter injection — Medium](https://medium.com/@patrykpoborca/dagger-2-and-base-classes-generics-and-presenter-injection-7d82053080c#.vec03i3vz)<br>
+
 ### 2016-03-30<br>
 + [Bash Shell常用快捷键 · hokein/Wiki Wiki](https://github.com/hokein/Wiki/wiki/Bash-Shell%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE)<br>
 
