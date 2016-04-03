@@ -1,4 +1,5 @@
 ### 2016-04-03<br>
++ [Java 8 in Android N Preview — Medium](https://medium.com/@sergii/java-8-in-android-n-preview-76184e2ab7ad#.1q6sdu9e1)<br>
 + [javan/whenever: Cron jobs in Ruby](https://github.com/javan/whenever)<br>
 + [Automated Tasks with Cron and Rake - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/topics/systems/automation.html)<br>
 
