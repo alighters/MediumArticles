@@ -1,4 +1,5 @@
 ### 2016-04-03<br>
++ [javan/whenever: Cron jobs in Ruby](https://github.com/javan/whenever)<br>
 + [Automated Tasks with Cron and Rake - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/topics/systems/automation.html)<br>
 
 ### 2016-04-02<br>
