@@ -1,4 +1,5 @@
 ### 2016-04-05<br>
++ [Java遍历HashMap并修改(remove) | Dumbee](http://dumbee.net/archives/41)<br>
 + [Stay/PullRecycler: recyclerview](https://github.com/Stay/PullRecycler)<br>
 
 ### 2016-04-04<br>
