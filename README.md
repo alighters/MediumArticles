@@ -1,4 +1,5 @@
 ### 2016-04-06<br>
++ [workarounds/bundler: Type safe way to pass bundles, intents and arguments in android](https://github.com/workarounds/bundler)<br>
 + [Jake Wharton：用 Retrofit 2.0 简化 HTTP 请求 - Realm is a mobile database: a replacement for SQLite & Core Data](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)<br>
 + [Top 10 JavaScript Articles from Last Month. — Mybridge for Professionals — Medium](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.4cfbpdlzc)<br>
 
