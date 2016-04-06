@@ -1,3 +1,6 @@
+### 2016-04-06<br>
++ [Top 10 JavaScript Articles from Last Month. — Mybridge for Professionals — Medium](https://medium.mybridge.co/top-10-javascript-articles-from-last-month-a4ea71a5dc48#.4cfbpdlzc)<br>
+
 ### 2016-04-05<br>
 + [Java遍历HashMap并修改(remove) | Dumbee](http://dumbee.net/archives/41)<br>
 + [Stay/PullRecycler: recyclerview](https://github.com/Stay/PullRecycler)<br>
