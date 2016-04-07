@@ -1,3 +1,6 @@
+### 2016-04-08<br>
++ [Dagger 2 Dependency Injection for Android Developers — Medium](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6#.gke5cmi7z)<br>
+
 ### 2016-04-06<br>
 + [workarounds/bundler: Type safe way to pass bundles, intents and arguments in android](https://github.com/workarounds/bundler)<br>
 + [Jake Wharton：用 Retrofit 2.0 简化 HTTP 请求 - Realm is a mobile database: a replacement for SQLite & Core Data](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)<br>
