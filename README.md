@@ -1,3 +1,6 @@
+### 2016-04-09<br>
++ [JetBrains/ideavim: Vim emulation plug-in for IDEs based on the IntelliJ platform.](https://github.com/JetBrains/ideavim)<br>
+
 ### 2016-04-08<br>
 + [Dagger 2 Dependency Injection for Android Developers — Medium](https://medium.com/@methodsignature/dagger-2-dependency-injection-for-android-developers-51d60e7397e6#.gke5cmi7z)<br>
 
