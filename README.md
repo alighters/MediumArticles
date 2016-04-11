@@ -1,3 +1,6 @@
+### 2016-04-11<br>
++ [ariejan de vroom](https://ariejan.net/2010/06/10/cherry-picking-specific-commits-from-another-branch/)<br>
+
 ### 2016-04-09<br>
 + [JetBrains/ideavim: Vim emulation plug-in for IDEs based on the IntelliJ platform.](https://github.com/JetBrains/ideavim)<br>
 
