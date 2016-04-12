@@ -1,3 +1,6 @@
+### 2016-04-12<br>
++ [[TUT] How to run Robolectric JUnit tests in Android Studio | Blundell](http://blog.blundellapps.co.uk/how-to-run-robolectric-junit-tests-in-android-studio/)<br>
+
 ### 2016-04-11<br>
 + [ariejan de vroom](https://ariejan.net/2010/06/10/cherry-picking-specific-commits-from-another-branch/)<br>
 
