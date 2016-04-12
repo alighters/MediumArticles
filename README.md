@@ -1,4 +1,5 @@
 ### 2016-04-12<br>
++ [Instrumentation Testing with Dagger, Mockito, and Espresso](http://engineering.circle.com/instrumentation-testing-with-dagger-mockito-and-espresso/)<br>
 + [[TUT] How to run Robolectric JUnit tests in Android Studio | Blundell](http://blog.blundellapps.co.uk/how-to-run-robolectric-junit-tests-in-android-studio/)<br>
 
 ### 2016-04-11<br>
