@@ -1,3 +1,6 @@
+### 2016-04-13<br>
++ [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)<br>
+
 ### 2016-04-12<br>
 + [Instrumentation Testing with Dagger, Mockito, and Espresso](http://engineering.circle.com/instrumentation-testing-with-dagger-mockito-and-espresso/)<br>
 + [[TUT] How to run Robolectric JUnit tests in Android Studio | Blundell](http://blog.blundellapps.co.uk/how-to-run-robolectric-junit-tests-in-android-studio/)<br>
