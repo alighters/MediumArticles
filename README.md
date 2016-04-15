@@ -1,3 +1,6 @@
+### 2016-04-15<br>
++ [Debugging RxJava on Android – Fernando Cejas](http://fernandocejas.com/2015/11/05/debugging-rxjava-on-android/)<br>
+
 ### 2016-04-13<br>
 + [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)<br>
 
