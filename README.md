@@ -1,3 +1,6 @@
+### 2016-04-17<br>
++ [android10/frodo: Android Library for Logging RxJava Observables and Subscribers.](https://github.com/android10/frodo)<br>
+
 ### 2016-04-15<br>
 + [Sequence diagrams with VIM and PlantUML | zbz5.net](http://www.zbz5.net/sequence-diagrams-vim-and-plantuml)<br>
 + [Debugging RxJava on Android – Fernando Cejas](http://fernandocejas.com/2015/11/05/debugging-rxjava-on-android/)<br>
