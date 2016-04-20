@@ -1,4 +1,5 @@
 ### 2016-04-20<br>
++ [How to append text to a file with Ruby | alvinalexander.com](http://alvinalexander.com/blog/post/ruby/example-how-append-text-to-file-ruby)<br>
 + [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)<br>
 + [Home · google/agera Wiki](https://github.com/google/agera/wiki)<br>
 
