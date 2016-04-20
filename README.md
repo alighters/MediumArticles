@@ -1,4 +1,5 @@
 ### 2016-04-21<br>
++ [3rd Party Octopress Themes · imathis/octopress Wiki](https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes)<br>
 + [Octopress themes and plugins | OctopressThemes](http://octopressthemes.com/#)<br>
 
 ### 2016-04-20<br>
