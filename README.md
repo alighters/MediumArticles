@@ -1,4 +1,5 @@
 ### 2016-04-21<br>
++ [Syntax Highlighting in Ruby on Rails — Blog by Marcin Szczepaniak —](http://crabonature.pl/posts/17-syntax-highlighting-in-ruby-on-rails)<br>
 + [Markdown in Ruby on Rails — Blog by Marcin Szczepaniak —](http://crabonature.pl/posts/16-markdown-in-ruby-on-rails)<br>
 + [Rouge](http://rouge.jneen.net/)<br>
 + [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)<br>
