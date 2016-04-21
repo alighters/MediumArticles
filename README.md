@@ -1,4 +1,5 @@
 ### 2016-04-21<br>
++ [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)<br>
 + [How to append text to a file with Ruby | alvinalexander.com](http://alvinalexander.com/blog/post/ruby/example-how-append-text-to-file-ruby)<br>
 + [octopress/octopress: Octopress 3.0 – Jekyll's Ferrari](https://github.com/octopress/octopress)<br>
 + [3rd Party Octopress Themes · imathis/octopress Wiki](https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes)<br>
