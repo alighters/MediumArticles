@@ -1,4 +1,5 @@
 ### 2016-04-21<br>
++ [Markdown in Ruby on Rails — Blog by Marcin Szczepaniak —](http://crabonature.pl/posts/16-markdown-in-ruby-on-rails)<br>
 + [Rouge](http://rouge.jneen.net/)<br>
 + [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)<br>
 + [How to append text to a file with Ruby | alvinalexander.com](http://alvinalexander.com/blog/post/ruby/example-how-append-text-to-file-ruby)<br>
