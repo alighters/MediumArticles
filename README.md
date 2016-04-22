@@ -1,3 +1,6 @@
+### 2016-04-22<br>
++ [Background Jobs with Resque - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/topics/performance/background_jobs.html)<br>
+
 ### 2016-04-21<br>
 + [Setting Up and Rendering Markdown and Code Highlighting with Ruby on Rails | The Crentist](http://thecrentist.com/setting-up-rendering-markdown-highlighting-ruby-on-rails/)<br>
 + [Syntax Highlighting in Ruby on Rails — Blog by Marcin Szczepaniak —](http://crabonature.pl/posts/17-syntax-highlighting-in-ruby-on-rails)<br>
