@@ -1,4 +1,5 @@
 ### 2016-04-23<br>
++ [octothemes/octopress-chinese: Octopress in simplified Chinese locale.](https://github.com/octothemes/octopress-chinese)<br>
 + [Getting Started with Octopress](http://webdesign.tutsplus.com/tutorials/getting-started-with-octopress--webdesign-11442)<br>
 
 ### 2016-04-22<br>
