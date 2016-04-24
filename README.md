@@ -1,4 +1,5 @@
 ### 2016-04-24<br>
++ [翻译：nginx入门指引（一） - 编程世界是无尽的荒野 - SegmentFault](https://segmentfault.com/a/1190000002990165)<br>
 + [EC2 & Mina & Octopress Deploy.rb](https://gist.github.com/japellerano/9670540)<br>
 
 ### 2016-04-23<br>
