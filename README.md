@@ -1,4 +1,5 @@
 ### 2016-04-26<br>
++ [Variables - Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/docs/variables/)<br>
 + [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)<br>
 
 ### 2016-04-25<br>
