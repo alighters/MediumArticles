@@ -1,4 +1,5 @@
 ### 2016-04-26<br>
++ [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)<br>
 + [Octopress Pagination](https://gist.github.com/vassilis/3418476)<br>
 + [Variables - Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/docs/variables/)<br>
 + [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)<br>
