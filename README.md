@@ -1,3 +1,9 @@
+### 2016-04-26<br>
++ [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)<br>
+
+### 2016-04-25<br>
++ [为 Octopress 添加多说评论系统 - Havee's Space](http://havee.me/internet/2013-02/add-duoshuo-commemt-system-into-octopress.html#comments)<br>
+
 ### 2016-04-24<br>
 + [翻译：nginx入门指引（一） - 编程世界是无尽的荒野 - SegmentFault](https://segmentfault.com/a/1190000002990165)<br>
 + [EC2 & Mina & Octopress Deploy.rb](https://gist.github.com/japellerano/9670540)<br>
