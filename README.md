@@ -1,3 +1,6 @@
+### 2016-04-27<br>
++ [ECMAScript 6入门](http://es6.ruanyifeng.com/)<br>
+
 ### 2016-04-26<br>
 + [Octopress Plugins - Usage & Examples - Octopress](http://octopress.org/docs/plugins/)<br>
 + [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)<br>
