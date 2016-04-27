@@ -1,4 +1,5 @@
 ### 2016-04-27<br>
++ [me115/design_patterns: 图说设计模式](https://github.com/me115/design_patterns)<br>
 + [ECMAScript 6入门](http://es6.ruanyifeng.com/)<br>
 
 ### 2016-04-26<br>
