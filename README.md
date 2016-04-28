@@ -1,4 +1,5 @@
 ### 2016-04-28<br>
++ [suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)<br>
 + [alswl/octopress-category-list: Tag cloud plugin for Octopress](https://github.com/alswl/octopress-category-list)<br>
 
 ### 2016-04-27<br>
