@@ -1,3 +1,6 @@
+### 2016-05-03<br>
++ [yuxingxin/RxJava-Essentials-CN: RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途](https://github.com/yuxingxin/RxJava-Essentials-CN)<br>
+
 ### 2016-04-28<br>
 + [suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)<br>
 + [alswl/octopress-category-list: Tag cloud plugin for Octopress](https://github.com/alswl/octopress-category-list)<br>
