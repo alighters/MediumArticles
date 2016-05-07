@@ -1,3 +1,6 @@
+### 2016-05-08<br>
++ [00ec454/Ask: Android runtime permission make easy](https://github.com/00ec454/Ask)<br>
+
 ### 2016-05-07<br>
 + [mzule/ActivityRouter: Router activities.](https://github.com/mzule/ActivityRouter)<br>
 + [Butter Knife](http://jakewharton.github.io/butterknife/)<br>
