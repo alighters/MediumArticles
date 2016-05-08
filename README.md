@@ -1,4 +1,5 @@
 ### 2016-05-08<br>
++ [Instant Run: How Does it Work?! — Google Developers — Medium](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.ekv4g6czq)<br>
 + [00ec454/Ask: Android runtime permission make easy](https://github.com/00ec454/Ask)<br>
 
 ### 2016-05-07<br>
