@@ -1,4 +1,5 @@
 ### 2016-05-08<br>
++ [打造一个 Android 的注解库 - Gemini @ SegmentFault - SegmentFault](https://segmentfault.com/a/1190000002785541)<br>
 + [Java SE 7 Java Annotation Processing Tool (APT)-related APIs and Developer Guides](http://docs.oracle.com/javase/7/docs/technotes/guides/apt/)<br>
 + [Annotation 示例、概念及作用、分类、自定义、解析，并对几个 Android 开源库 Annotation 原理进行简析](http://www.trinea.cn/android/java-annotation-android-open-source-analysis/)<br>
 + [Annotation实战【自定义AbstractProcessor】 - 小文字 - 博客园](http://www.cnblogs.com/avenwu/p/4173899.html)<br>
