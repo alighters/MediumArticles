@@ -1,4 +1,5 @@
 ### 2016-05-08<br>
++ [Annotation 示例、概念及作用、分类、自定义、解析，并对几个 Android 开源库 Annotation 原理进行简析](http://www.trinea.cn/android/java-annotation-android-open-source-analysis/)<br>
 + [Annotation实战【自定义AbstractProcessor】 - 小文字 - 博客园](http://www.cnblogs.com/avenwu/p/4173899.html)<br>
 + [Instant Run: How Does it Work?! — Google Developers — Medium](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.ekv4g6czq)<br>
 + [00ec454/Ask: Android runtime permission make easy](https://github.com/00ec454/Ask)<br>
