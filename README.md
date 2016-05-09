@@ -1,4 +1,5 @@
 ### 2016-05-09<br>
++ [auto/README.md at master · google/auto](https://github.com/google/auto/blob/master/service%2FREADME.md)<br>
 + [square/javapoet: A Java API for generating .java source files.](https://github.com/square/javapoet)<br>
 
 ### 2016-05-08<br>
