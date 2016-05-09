@@ -1,3 +1,6 @@
+### 2016-05-09<br>
++ [square/javapoet: A Java API for generating .java source files.](https://github.com/square/javapoet)<br>
+
 ### 2016-05-08<br>
 + [打造一个 Android 的注解库 - Gemini @ SegmentFault - SegmentFault](https://segmentfault.com/a/1190000002785541)<br>
 + [Java SE 7 Java Annotation Processing Tool (APT)-related APIs and Developer Guides](http://docs.oracle.com/javase/7/docs/technotes/guides/apt/)<br>
