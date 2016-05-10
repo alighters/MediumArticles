@@ -1,3 +1,6 @@
+### 2016-05-10<br>
++ [raycoarana/tesela: Tesela simplifies dealing with background threads and UI work in Model-View-Presenter](https://github.com/raycoarana/tesela)<br>
+
 ### 2016-05-09<br>
 + [hvisser / android-apt — Bitbucket](https://bitbucket.org/hvisser/android-apt)<br>
 + [auto/README.md at master · google/auto](https://github.com/google/auto/blob/master/service%2FREADME.md)<br>
