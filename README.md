@@ -1,4 +1,5 @@
 ### 2016-05-11<br>
++ [shiraji/permissions-dispatcher-plugin: IntelliJ plugin for supporting PermissionsDispatcher](https://github.com/shiraji/permissions-dispatcher-plugin)<br>
 + [Permissionsdispatcher by hotchemi](http://hotchemi.github.io/PermissionsDispatcher/)<br>
 
 ### 2016-05-10<br>
