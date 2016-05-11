@@ -1,3 +1,6 @@
+### 2016-05-11<br>
++ [Permissionsdispatcher by hotchemi](http://hotchemi.github.io/PermissionsDispatcher/)<br>
+
 ### 2016-05-10<br>
 + [raycoarana/tesela: Tesela simplifies dealing with background threads and UI work in Model-View-Presenter](https://github.com/raycoarana/tesela)<br>
 
