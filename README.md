@@ -1,4 +1,5 @@
 ### 2016-05-11<br>
++ [JS函数式编程指南 - GitBook](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)<br>
 + [shiraji/permissions-dispatcher-plugin: IntelliJ plugin for supporting PermissionsDispatcher](https://github.com/shiraji/permissions-dispatcher-plugin)<br>
 + [Permissionsdispatcher by hotchemi](http://hotchemi.github.io/PermissionsDispatcher/)<br>
 
