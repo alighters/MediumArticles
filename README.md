@@ -1,3 +1,6 @@
+### 2016-05-17<br>
++ [Android Studio Tips Of the Day - Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)<br>
+
 ### 2016-05-11<br>
 + [Introduction | Learn Javascript](https://gitbookio.gitbooks.io/javascript/content/)<br>
 + [JS函数式编程指南 - GitBook](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)<br>
