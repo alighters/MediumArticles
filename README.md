@@ -1,4 +1,5 @@
 ### 2016-05-19<br>
++ [Dependency injection with Dagger 2 - the API – froger_mcs dev blog – Coding with love {❤️}](http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/)<br>
 + [简介 | ECMAScript 6入门](https://wohugb.gitbooks.io/ecmascript-6/content/docs/intro.html)<br>
 + [es6features/README.md at master · lukehoban/es6features](https://github.com/lukehoban/es6features/blob/master/README.md)<br>
 
