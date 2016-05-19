@@ -1,3 +1,6 @@
+### 2016-05-19<br>
++ [es6features/README.md at master · lukehoban/es6features](https://github.com/lukehoban/es6features/blob/master/README.md)<br>
+
 ### 2016-05-17<br>
 + [Android Studio Tips Of the Day - Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)<br>
 
