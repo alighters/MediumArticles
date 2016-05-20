@@ -1,4 +1,5 @@
 ### 2016-05-20<br>
++ [Loading data from multiple sources with RxJava](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)<br>
 + [Eloquent JavaScript](http://eloquentjavascript.net/)<br>
 + [Observable Operators - Reactive Framework (Rx) Wiki](http://rxwiki.wikidot.com/observable-operators)<br>
 + [Getting Started | Nuclide](https://nuclide.io/docs/quick-start/getting-started/)<br>
