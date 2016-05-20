@@ -1,4 +1,5 @@
 ### 2016-05-20<br>
++ [Observable Operators - Reactive Framework (Rx) Wiki](http://rxwiki.wikidot.com/observable-operators)<br>
 + [Getting Started | Nuclide](https://nuclide.io/docs/quick-start/getting-started/)<br>
 
 ### 2016-05-19<br>
