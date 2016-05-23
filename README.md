@@ -1,4 +1,5 @@
 ### 2016-05-23<br>
++ [Gazler/githug: Git your game on!](https://github.com/Gazler/githug)<br>
 + [ubiratansoares/rxassertions: Nice AssertJ assertions for RxJava](https://github.com/ubiratansoares/rxassertions)<br>
 
 ### 2016-05-20<br>
