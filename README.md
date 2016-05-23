@@ -1,3 +1,6 @@
+### 2016-05-23<br>
++ [ubiratansoares/rxassertions: Nice AssertJ assertions for RxJava](https://github.com/ubiratansoares/rxassertions)<br>
+
 ### 2016-05-20<br>
 + [Loading data from multiple sources with RxJava](http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/)<br>
 + [Eloquent JavaScript](http://eloquentjavascript.net/)<br>
