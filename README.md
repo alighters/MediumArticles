@@ -1,4 +1,5 @@
 ### 2016-05-25<br>
++ [gson/UserGuide.md at master · google/gson](https://github.com/google/gson/blob/master/UserGuide.md)<br>
 + [Vim | Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)<br>
 
 ### 2016-05-23<br>
