@@ -1,3 +1,6 @@
+### 2016-05-25<br>
++ [Vim | Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)<br>
+
 ### 2016-05-23<br>
 + [Codementor | Instant 1:1 Help from Expert Developers](https://www.codementor.io/)<br>
 + [Gazler/githug: Git your game on!](https://github.com/Gazler/githug)<br>
