@@ -1,3 +1,6 @@
+### 2016-05-26<br>
++ [探究 LayoutInflater setFactory](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820263&idx=1&sn=f7cbcf70570decc064fa5f05531e2c5d&scene=0&key=f5c31ae61525f82e78df81d830e55d9a76720e4f91ee3e6543440de517ecd7671367875a9e7f4a7e5ae93e23f5f0f0da&ascene=0&uin=NDIxMTU4Njgw&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=hS6rInXZXsnw%2FCbKo3ESI2FvKh2KVrPK9DklL%2Bq9Y%2Bp0cVbnpnjnJsXY4nO43uXp)<br>
+
 ### 2016-05-25<br>
 + [gson/UserGuide.md at master · google/gson](https://github.com/google/gson/blob/master/UserGuide.md)<br>
 + [Vim | Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)<br>
