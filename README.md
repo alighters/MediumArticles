@@ -1,3 +1,6 @@
+### 2016-06-03<br>
++ [AutoValue Extensions (Square NYC, March 2016) // Speaker Deck](https://speakerdeck.com/jakewharton/autovalue-extensions-square-nyc-march-2016)<br>
+
 ### 2016-06-02<br>
 + [RxJava | CodePath Android Cliffnotes](http://guides.codepath.com/android/RxJava#avoiding-memory-leaks)<br>
 
