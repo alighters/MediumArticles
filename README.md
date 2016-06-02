@@ -1,4 +1,5 @@
 ### 2016-06-03<br>
++ [DEMYSTIFYING RXJAVA SUBSCRIBERS on Vimeo](https://vimeo.com/144812843)<br>
 + [Demystifying RxJava Subscribers (Øredev 2015) // Speaker Deck](https://speakerdeck.com/jakewharton/demystifying-rxjava-subscribers-oredev-2015)<br>
 + [AutoValue Extensions (Square NYC, March 2016) // Speaker Deck](https://speakerdeck.com/jakewharton/autovalue-extensions-square-nyc-march-2016)<br>
 
