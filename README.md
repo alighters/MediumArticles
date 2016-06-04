@@ -1,4 +1,5 @@
 ### 2016-06-04<br>
++ [A quick introduction to React — Startup Rocket](https://articles.startuprocket.com/a-quick-introduction-to-react-e083fb2bebf2#.usguh2zhz)<br>
 + [luin/medis: Medis is a beautiful, easy-to-use Mac database management application for Redis.](https://github.com/luin/medis)<br>
 + [Android Aspect Oriented Programming // Speaker Deck](https://speakerdeck.com/android10/android-aspect-oriented-programming)<br>
 
