@@ -1,4 +1,5 @@
 ### 2016-06-04<br>
++ [luin/medis: Medis is a beautiful, easy-to-use Mac database management application for Redis.](https://github.com/luin/medis)<br>
 + [Android Aspect Oriented Programming // Speaker Deck](https://speakerdeck.com/android10/android-aspect-oriented-programming)<br>
 
 ### 2016-06-03<br>
