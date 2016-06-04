@@ -1,3 +1,6 @@
+### 2016-06-04<br>
++ [Android Aspect Oriented Programming // Speaker Deck](https://speakerdeck.com/android10/android-aspect-oriented-programming)<br>
+
 ### 2016-06-03<br>
 + [appcompat v21: material design for pre-Lollipop devices! · Chris Banes](https://chris.banes.me/2014/10/17/appcompat-v21/)<br>
 + [DEMYSTIFYING RXJAVA SUBSCRIBERS on Vimeo](https://vimeo.com/144812843)<br>
