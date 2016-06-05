@@ -1,4 +1,5 @@
 ### 2016-06-05<br>
++ [Getting Started with Redux - Course by @dan_abramov @eggheadio](https://egghead.io/courses/getting-started-with-redux)<br>
 + [22 Amazing open source React projects — Mybridge for Professionals](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.cz5hscdrg)<br>
 
 ### 2016-06-04<br>
