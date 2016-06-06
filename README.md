@@ -1,4 +1,5 @@
 ### 2016-06-06<br>
++ [tpope/vim-fugitive: fugitive.vim: a Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)<br>
 + [tmhedberg/SimpylFold: No-BS Python code folding for Vim](https://github.com/tmhedberg/SimpylFold)<br>
 + [Vim与Python真乃天作之合| 编程派 | Coding Python](http://codingpy.com/article/vim-and-python-match-in-heaven/)<br>
 + [你也用Vim写Java代码? - enalix - SegmentFault](https://segmentfault.com/a/1190000005642590)<br>
