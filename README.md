@@ -1,3 +1,6 @@
+### 2016-06-07<br>
++ [AspectJ and Eclipse Programming](http://andrewclement.blogspot.com/)<br>
+
 ### 2016-06-06<br>
 + [tpope/vim-fugitive: fugitive.vim: a Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)<br>
 + [tmhedberg/SimpylFold: No-BS Python code folding for Vim](https://github.com/tmhedberg/SimpylFold)<br>
