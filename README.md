@@ -1,4 +1,5 @@
 ### 2016-06-06<br>
++ [Vim与Python真乃天作之合| 编程派 | Coding Python](http://codingpy.com/article/vim-and-python-match-in-heaven/)<br>
 + [你也用Vim写Java代码? - enalix - SegmentFault](https://segmentfault.com/a/1190000005642590)<br>
 + [开发必读丨老司机乱谈编辑器之神——vim](https://mp.weixin.qq.com/s?__biz=MzAxMzYyNDkyNA==&mid=402307832&idx=1&sn=1dfcbb0ac9c02a064ae42f68dbb98ef3&scene=0&key=710a5d99946419d9881763c1d00761dd6cb1f38e0d4d7d4566eab5a82508c14505784eab00c0db22ebe630095d3aa0f9&ascene=0&uin=ODU2NjQ0ODgx&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.3+build(15D21)&version=11020201&pass_ticket=CMI0LVk9rFrnWJaJpsVatU8ttg%2Fhhop%2Bt9KxgD%2FfTbg40kIbgU4par4UHnuWR52P)<br>
 
