@@ -1,4 +1,5 @@
 ### 2016-06-07<br>
++ [The AspectJTM Programming Guide](https://eclipse.org/aspectj/doc/released/progguide/index.html)<br>
 + [AspectJ and Eclipse Programming](http://andrewclement.blogspot.com/)<br>
 
 ### 2016-06-06<br>
