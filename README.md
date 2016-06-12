@@ -1,3 +1,6 @@
+### 2016-06-12<br>
++ [Android 扫描二维码的实现（简化zxing） - Gemini @ SegmentFault - SegmentFault](https://segmentfault.com/a/1190000003945592)<br>
+
 ### 2016-06-07<br>
 + [The AspectJTM Programming Guide](https://eclipse.org/aspectj/doc/released/progguide/index.html)<br>
 + [AspectJ and Eclipse Programming](http://andrewclement.blogspot.com/)<br>
