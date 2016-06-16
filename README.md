@@ -1,4 +1,8 @@
+### 2016-06-16<br>
++ [tbruyelle/RxPermissions: Android runtime permissions powered by RxJava](https://github.com/tbruyelle/RxPermissions)<br>
+
 ### 2016-06-15<br>
++ [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated) :: The Cheese Factory](https://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)<br>
 + [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)<br>
 
 ### 2016-06-12<br>
