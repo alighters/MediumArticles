@@ -1,3 +1,6 @@
+### 2016-06-17<br>
++ [20 Practical Examples of RPM Commands in Linux](http://www.tecmint.com/20-practical-examples-of-rpm-commands-in-linux/)<br>
+
 ### 2016-06-16<br>
 + [tbruyelle/RxPermissions: Android runtime permissions powered by RxJava](https://github.com/tbruyelle/RxPermissions)<br>
 
