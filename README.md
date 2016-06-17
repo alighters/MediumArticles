@@ -1,4 +1,5 @@
 ### 2016-06-17<br>
++ [How To Install Ruby on Rails on CentOS 6 with RVM | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-centos-6-with-rvm)<br>
 + [Linux Package Management with Yum, RPM, Apt, Dpkg, Aptitude and Zypper - Part 9](http://www.tecmint.com/linux-package-management/)<br>
 + [20 Practical Examples of RPM Commands in Linux](http://www.tecmint.com/20-practical-examples-of-rpm-commands-in-linux/)<br>
 
