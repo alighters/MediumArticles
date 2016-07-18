@@ -1,3 +1,6 @@
+### 2016-07-18<br>
++ [SSL/TLS协议运行机制的概述 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)<br>
+
 ### 2016-07-05<br>
 + [Linux文件远程拷贝命令scp的使用](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649443523&idx=1&sn=5d703e6fef0b3663b5a4478c32fe45eb&scene=0&key=77421cf58af4a653d41594a5a8462300159a4c001822e7044563c3dc9de486f1d272d2804faf0eb2876082c67639bb37&ascene=0&uin=MjQ4MzEzMDQ0Mw%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11+build(15A284)&version=11020201&pass_ticket=R6REXYW6pBsbIMHmYlBkhbmv2JT6guoCSlHn%2BTgmILq%2BMg%2Bicnqi34F4k9nbalSJ)<br>
 
