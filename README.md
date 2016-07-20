@@ -1,4 +1,5 @@
 ### 2016-07-20<br>
++ [RxJava 教程第一部分：入门之 生命周期管理 - 云在千峰](http://blog.chengyunfeng.com/?p=954)<br>
 + [RxJava 教程第一部分：入门之 关键的类 - 云在千峰](http://blog.chengyunfeng.com/?p=948)<br>
 
 ### 2016-07-18<br>
