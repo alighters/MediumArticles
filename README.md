@@ -1,3 +1,6 @@
+### 2016-07-26<br>
++ [ECMAScript 6 扫盲 | 小胡子哥的个人网站](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)<br>
+
 ### 2016-07-25<br>
 + [Create Apps with No Configuration | React](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)<br>
 + [React App](http://localhost:3000/)<br>
