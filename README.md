@@ -1,4 +1,5 @@
 ### 2016-07-25<br>
++ [Create Apps with No Configuration | React](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)<br>
 + [React App](http://localhost:3000/)<br>
 
 ### 2016-07-20<br>
