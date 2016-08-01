@@ -1,4 +1,6 @@
 ### 2016-08-01<br>
++ [Vim Awesome](http://vimawesome.com/)<br>
++ [syl20bnr/spacemacs: A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!](https://github.com/syl20bnr/spacemacs)<br>
 + [wklken/k-vim: vim配置](https://github.com/wklken/k-vim)<br>
 + [Vim 和 Emacs 分别适合哪些人群？优劣势的对比如何？相应的，有哪些值得推荐的入门教程呢？ - 文本编辑器 - 知乎](https://www.zhihu.com/question/19836903)<br>
 + [Exploring Hidden Java Costs (360|AnDev, July 2016) // Speaker Deck](https://speakerdeck.com/jakewharton/exploring-hidden-java-costs-360-andev-july-2016)<br>
