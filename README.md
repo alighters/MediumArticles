@@ -1,4 +1,5 @@
 ### 2016-08-01<br>
++ [wklken/k-vim: vim配置](https://github.com/wklken/k-vim)<br>
 + [Vim 和 Emacs 分别适合哪些人群？优劣势的对比如何？相应的，有哪些值得推荐的入门教程呢？ - 文本编辑器 - 知乎](https://www.zhihu.com/question/19836903)<br>
 + [Exploring Hidden Java Costs (360|AnDev, July 2016) // Speaker Deck](https://speakerdeck.com/jakewharton/exploring-hidden-java-costs-360-andev-july-2016)<br>
 + [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)<br>
