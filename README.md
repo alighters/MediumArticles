@@ -1,4 +1,5 @@
 ### 2016-08-01<br>
++ [YBlog - Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)<br>
 + [10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)<br>
 + [Vim Awesome](http://vimawesome.com/)<br>
 + [syl20bnr/spacemacs: A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!](https://github.com/syl20bnr/spacemacs)<br>
