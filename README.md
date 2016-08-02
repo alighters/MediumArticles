@@ -1,3 +1,6 @@
+### 2016-08-02<br>
++ [[译]FaceBook出品：开始用FlatBuffers替换老旧的Json吧 - 简书](http://www.jianshu.com/p/48e1511fcb4a)<br>
+
 ### 2016-08-01<br>
 + [YBlog - Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)<br>
 + [10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)<br>
