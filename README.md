@@ -1,4 +1,5 @@
 ### 2016-08-02<br>
++ [kokke/tiny-AES128-C: Small portable AES128 in C](https://github.com/kokke/tiny-AES128-C)<br>
 + [](ftp://ftp.gnupg.org/GnuPG/contrib/rsa.c)<br>
 + [Android Studio中NDK开发](http://www.race604.com/android-studio-with-ndk/)<br>
 + [Org mode for Emacs – Your Life in Plain Text](http://orgmode.org/)<br>
