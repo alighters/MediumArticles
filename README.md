@@ -1,3 +1,6 @@
+### 2016-08-03<br>
++ [密码算法详解——AES - ReadingLover - 博客园](http://www.cnblogs.com/luop/p/4334160.html)<br>
+
 ### 2016-08-02<br>
 + [kokke/tiny-AES128-C: Small portable AES128 in C](https://github.com/kokke/tiny-AES128-C)<br>
 + [](ftp://ftp.gnupg.org/GnuPG/contrib/rsa.c)<br>
