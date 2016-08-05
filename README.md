@@ -1,3 +1,6 @@
+### 2016-08-05<br>
++ [Vim下以16进制查看， 修改文本 - AfterSummer - 博客园](http://www.cnblogs.com/meibenjin/archive/2012/12/06/2806396.html)<br>
+
 ### 2016-08-04<br>
 + [Developer Center — Documentation and SDKs | Oculus](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-studio-debug/)<br>
 
