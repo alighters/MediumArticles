@@ -1,3 +1,6 @@
+### 2016-08-08<br>
++ [从var func=function 和 function func()区别谈Javascript的预解析机制 - 很好玩 - 博客园](http://www.cnblogs.com/shytong/p/5100426.html)<br>
+
 ### 2016-08-05<br>
 + [Gson全解析（下）-Gson性能分析 - 简书](http://www.jianshu.com/p/17a68d4fffbe)<br>
 + [HotFix介绍及使用总结 - 简书](http://www.jianshu.com/p/6f0ae1e364d9)<br>
