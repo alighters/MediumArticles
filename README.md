@@ -1,4 +1,5 @@
 ### 2016-08-08<br>
++ [React Native 开发之 IDE 选型和配置](http://www.infoq.com/cn/articles/react-native-ide)<br>
 + [从var func=function 和 function func()区别谈Javascript的预解析机制 - 很好玩 - 博客园](http://www.cnblogs.com/shytong/p/5100426.html)<br>
 
 ### 2016-08-05<br>
