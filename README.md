@@ -1,4 +1,5 @@
 ### 2016-08-10<br>
++ [搭建开发环境 - react native 中文网](http://reactnative.cn/docs/0.31/getting-started.html#content)<br>
 + [Demo Flexbox 1](http://codepen.io/HugoGiraudel/pen/LklCv)<br>
 + [一个完整的Flexbox指南_flexbox, CSS3 教程_w3cplus](http://www.w3cplus.com/css3/a-guide-to-flexbox.html)<br>
 
