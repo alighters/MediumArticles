@@ -1,4 +1,5 @@
 ### 2016-08-15<br>
++ [Ruby on Rails IDE :: JetBrains RubyMine](https://www.jetbrains.com/ruby/)<br>
 + [rizzatti/dash.vim: Search Dash.app from Vim](https://github.com/rizzatti/dash.vim#readme)<br>
 
 ### 2016-08-10<br>
