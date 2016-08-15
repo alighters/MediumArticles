@@ -1,3 +1,6 @@
+### 2016-08-15<br>
++ [rizzatti/dash.vim: Search Dash.app from Vim](https://github.com/rizzatti/dash.vim#readme)<br>
+
 ### 2016-08-10<br>
 + [搭建开发环境 - react native 中文网](http://reactnative.cn/docs/0.31/getting-started.html#content)<br>
 + [Demo Flexbox 1](http://codepen.io/HugoGiraudel/pen/LklCv)<br>
