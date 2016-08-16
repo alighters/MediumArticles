@@ -1,3 +1,6 @@
+### 2016-08-16<br>
++ [实例教学：使用 D3.js 实现数据可视化 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/p/21897086)<br>
+
 ### 2016-08-15<br>
 + [Ruby on Rails IDE :: JetBrains RubyMine](https://www.jetbrains.com/ruby/)<br>
 + [rizzatti/dash.vim: Search Dash.app from Vim](https://github.com/rizzatti/dash.vim#readme)<br>
