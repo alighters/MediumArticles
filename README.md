@@ -1,4 +1,5 @@
 ### 2016-08-17<br>
++ [Round Up To Power Of Two - 小胖轩](http://androiddevelop.coding.me/2015/08/28/round-up-to-power-of-two/)<br>
 + [attentiveness/reading: iReading App Write In React-Native](https://github.com/attentiveness/reading)<br>
 
 ### 2016-08-16<br>
