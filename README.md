@@ -1,4 +1,5 @@
 ### 2016-08-17<br>
++ [[问答]HashMap有哪些考察点？ · Issue #109 · android-cn/android-discuss](https://github.com/android-cn/android-discuss/issues/109)<br>
 + [Round Up To Power Of Two - 小胖轩](http://androiddevelop.coding.me/2015/08/28/round-up-to-power-of-two/)<br>
 + [attentiveness/reading: iReading App Write In React-Native](https://github.com/attentiveness/reading)<br>
 
