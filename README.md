@@ -1,4 +1,5 @@
 ### 2016-08-18<br>
++ [](https://ece.uwaterloo.ca/~cmoreno/ece250/2012-02-01--hash_tables.pdf)<br>
 + [Wang/Jenkins Hash算法 – d0evi1的博客](http://d0evi1.com/wang-jenkins-hash/)<br>
 + [Java HashMap 源码解析终极版](http://www.woaitqs.cc/program/2015/04/14/read-source-code-about-hashmap)<br>
 + [My WorkdaySingle-word Wang/Jenkins Hash in ConcurrentHashMap - My Workday](http://www.goworkday.com/2010/03/19/single-word-wangjenkins-hash-concurrenthashmap/)<br>
