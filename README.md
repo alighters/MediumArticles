@@ -1,4 +1,5 @@
 ### 2016-08-18<br>
++ [Junit 3 vs Junit 4 Comparison](http://www.asjava.com/junit/junit-3-vs-junit-4-comparison/)<br>
 + [](https://ece.uwaterloo.ca/~cmoreno/ece250/2012-02-01--hash_tables.pdf)<br>
 + [Wang/Jenkins Hash算法 – d0evi1的博客](http://d0evi1.com/wang-jenkins-hash/)<br>
 + [Java HashMap 源码解析终极版](http://www.woaitqs.cc/program/2015/04/14/read-source-code-about-hashmap)<br>
