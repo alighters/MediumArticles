@@ -1,4 +1,5 @@
 ### 2016-08-18<br>
++ [My WorkdaySingle-word Wang/Jenkins Hash in ConcurrentHashMap - My Workday](http://www.goworkday.com/2010/03/19/single-word-wangjenkins-hash-concurrenthashmap/)<br>
 + [按位与、或、异或等运算方法 - 编程的数学原理 - 博客频道 - CSDN.NET](http://blog.csdn.net/21aspnet/article/details/7387373)<br>
 
 ### 2016-08-17<br>
