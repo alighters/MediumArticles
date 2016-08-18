@@ -1,3 +1,6 @@
+### 2016-08-18<br>
++ [按位与、或、异或等运算方法 - 编程的数学原理 - 博客频道 - CSDN.NET](http://blog.csdn.net/21aspnet/article/details/7387373)<br>
+
 ### 2016-08-17<br>
 + [[问答]HashMap有哪些考察点？ · Issue #109 · android-cn/android-discuss](https://github.com/android-cn/android-discuss/issues/109)<br>
 + [Round Up To Power Of Two - 小胖轩](http://androiddevelop.coding.me/2015/08/28/round-up-to-power-of-two/)<br>
