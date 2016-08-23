@@ -1,3 +1,6 @@
+### 2016-08-23<br>
++ [JavaScript 中的相等性判断 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_sameness)<br>
+
 ### 2016-08-21<br>
 + [Vim Cheat Sheet - English](http://vim.rtorr.com/)<br>
 
