@@ -1,4 +1,5 @@
 ### 2016-08-24<br>
++ [关于MultiDex方案的一点研究与思考 - 简书](http://www.jianshu.com/p/33f22b21ef1e)<br>
 + [[译]Android Application启动流程分析 - 简书](http://www.jianshu.com/p/a5532ecc8377)<br>
 + [二维码的基础原理是什么？ | 草料二维码技术博客](http://cli.im/news/10601)<br>
 + [二维码的生成细节和原理 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/10590.html)<br>
