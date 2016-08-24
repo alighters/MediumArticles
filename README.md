@@ -1,4 +1,5 @@
 ### 2016-08-24<br>
++ [99%的人都理解错了HTTP中GET与POST的区别](https://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4&key=cf237d7ae24775e84233995a5e341e5ba0731f22358cf69be2c2fb9920cf061b9fe8c0ce350a6ebeb16b7cf538d930aa&ascene=0&uin=MjQ4MzEzMDQ0Mw%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11+build(15A284)&version=12000006&nettype=WIFI&fontScale=100&pass_ticket=IobJOL2u2DGQAb%2Bp5%2FlRjmsGlRs%2FKg8CSCz6tjGCgNc54BT9%2FScW65CIP0VwT9rv)<br>
 + [关于MultiDex方案的一点研究与思考 - 简书](http://www.jianshu.com/p/33f22b21ef1e)<br>
 + [[译]Android Application启动流程分析 - 简书](http://www.jianshu.com/p/a5532ecc8377)<br>
 + [二维码的基础原理是什么？ | 草料二维码技术博客](http://cli.im/news/10601)<br>
