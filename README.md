@@ -1,3 +1,6 @@
+### 2016-08-24<br>
++ [二维码的生成细节和原理 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/10590.html)<br>
+
 ### 2016-08-23<br>
 + [JavaScript 中的相等性判断 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_sameness)<br>
 
