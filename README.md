@@ -1,3 +1,6 @@
+### 2016-08-28<br>
++ [译：编辑器之战: Vim的复仇 - 今日头条(TouTiao.com)](http://toutiao.com/a6322423873547632897/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
+
 ### 2016-08-26<br>
 + [Disciple.Ding Blog](http://discipled.daoapp.io/#/posts/es2015)<br>
 
