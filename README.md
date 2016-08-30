@@ -1,3 +1,6 @@
+### 2016-08-30<br>
++ [Robolectric介绍 - 磁针石 的个人空间 - 开源中国社区](http://my.oschina.net/u/1433482/blog/630344)<br>
+
 ### 2016-08-28<br>
 + [译：编辑器之战: Vim的复仇 - 今日头条(TouTiao.com)](http://toutiao.com/a6322423873547632897/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 
