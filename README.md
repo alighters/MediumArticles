@@ -1,3 +1,6 @@
+### 2016-08-31<br>
++ [从 __proto__ prototype 说起](http://varnull.cn/cong-__proto__-prototype-shuo-qi/)<br>
+
 ### 2016-08-30<br>
 + [Robolectric介绍 - 磁针石 的个人空间 - 开源中国社区](http://my.oschina.net/u/1433482/blog/630344)<br>
 
