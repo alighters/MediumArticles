@@ -1,4 +1,5 @@
 ### 2016-09-03<br>
++ [for...of - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)<br>
 + [Learn ES2015 · Babel](http://babeljs.io/docs/learn-es2015/)<br>
 
 ### 2016-09-02<br>
