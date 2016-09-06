@@ -1,3 +1,6 @@
+### 2016-09-06<br>
++ [计数排序 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F)<br>
+
 ### 2016-09-04<br>
 + [facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)<br>
 + [React入门教程 - 组件生命周期 · Fraser Xu](https://fraserxu.me/2014/08/31/react-component-lifecycle/)<br>
