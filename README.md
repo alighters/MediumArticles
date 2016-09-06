@@ -1,4 +1,5 @@
 ### 2016-09-06<br>
++ [Byte Buddy - runtime code generation for the Java virtual machine](http://bytebuddy.net/#/)<br>
 + [raphw/byte-buddy: Runtime code generation for the Java virtual machine.](https://github.com/raphw/byte-buddy)<br>
 + [dijingran/asm-demo: show how ASM works](https://github.com/dijingran/asm-demo)<br>
 + [](http://asm.ow2.org/current/asm-transformations.pdf)<br>
