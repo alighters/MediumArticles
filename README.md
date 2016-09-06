@@ -1,4 +1,5 @@
 ### 2016-09-06<br>
++ [Easily Create Java Agents with Byte Buddy](https://www.infoq.com/articles/Easily-Create-Java-Agents-with-ByteBuddy)<br>
 + [Byte Buddy - runtime code generation for the Java virtual machine](http://bytebuddy.net/#/)<br>
 + [raphw/byte-buddy: Runtime code generation for the Java virtual machine.](https://github.com/raphw/byte-buddy)<br>
 + [dijingran/asm-demo: show how ASM works](https://github.com/dijingran/asm-demo)<br>
