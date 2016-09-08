@@ -1,3 +1,6 @@
+### 2016-09-08<br>
++ [How Jekyll works · jekyll/jekyll Wiki](https://github.com/jekyll/jekyll/wiki/How-Jekyll-works)<br>
+
 ### 2016-09-06<br>
 + [Easily Create Java Agents with Byte Buddy](https://www.infoq.com/articles/Easily-Create-Java-Agents-with-ByteBuddy)<br>
 + [Byte Buddy - runtime code generation for the Java virtual machine](http://bytebuddy.net/#/)<br>
