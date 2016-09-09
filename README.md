@@ -1,4 +1,5 @@
 ### 2016-09-09<br>
++ [让人倾倒的 11 个 Npm Trick · 文蔺的前端之路](http://www.wemlion.com/2016/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)<br>
 + [Master the JavaScript Interview: What is Function Composition? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.3e19ca6jy)<br>
 + [Supercharge JavaScript development in Atom – Medium](https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.iv05c1bbb)<br>
 + [Supercharge JavaScript development in Atom – Medium](https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.iv05c1bbb)<br>
