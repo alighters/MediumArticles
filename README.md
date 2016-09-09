@@ -1,4 +1,5 @@
 ### 2016-09-09<br>
++ [Supercharge JavaScript development in Atom – Medium](https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc#.iv05c1bbb)<br>
 + [Using CSS Flexible Boxes - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)<br>
 + [My First ‘React Native’ Application — A basic Image Grid — by a UI developer – Medium](https://medium.com/@sravanrekandar/my-first-react-native-application-a-basic-image-grid-by-a-ui-developer-72467f49793b#.hwz4c7bij)<br>
 + [My First ‘React Native’ Application — A basic Image Grid — by a UI developer – Medium](https://medium.com/@sravanrekandar/my-first-react-native-application-a-basic-image-grid-by-a-ui-developer-72467f49793b#.hwz4c7bij)<br>
