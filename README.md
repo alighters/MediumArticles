@@ -1,3 +1,6 @@
+### 2016-09-09<br>
++ [Learn CSS Flexbox in 3 Minutes – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672#.o5lawkw0n)<br>
+
 ### 2016-09-08<br>
 + [How Jekyll works · jekyll/jekyll Wiki](https://github.com/jekyll/jekyll/wiki/How-Jekyll-works)<br>
 
