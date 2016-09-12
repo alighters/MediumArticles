@@ -1,4 +1,5 @@
 ### 2016-09-12<br>
++ [Which Tech Should You Learn Now? – JavaScript Scene – Medium](https://medium.com/javascript-scene/which-tech-should-you-learn-now-5705748c1b14#.y1goc7a4t)<br>
 + [React/React Native 的ES5 ES6写法对照表 | 论坛 - React Native中文社区](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)<br>
 
 ### 2016-09-09<br>
