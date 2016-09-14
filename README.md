@@ -1,3 +1,6 @@
+### 2016-09-14<br>
++ [通往全栈工程师的捷径 —— React](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=a82zcv0P%2B6ztN4xgcdnD%2FWtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES%2FvVmaI0)<br>
+
 ### 2016-09-12<br>
 + [Which Tech Should You Learn Now? – JavaScript Scene – Medium](https://medium.com/javascript-scene/which-tech-should-you-learn-now-5705748c1b14#.y1goc7a4t)<br>
 + [React/React Native 的ES5 ES6写法对照表 | 论坛 - React Native中文社区](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)<br>
