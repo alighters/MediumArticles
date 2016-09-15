@@ -1,3 +1,6 @@
+### 2016-09-15<br>
++ [React-Redux Basics – Medium](https://medium.com/@MKulinski/react-redux-basics-a36914c0035d#.m4qg8grnk)<br>
+
 ### 2016-09-14<br>
 + [通往全栈工程师的捷径 —— React](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=1&sn=200418877771f656c1a0ab33ad407516&scene=1&srcid=1119XfFA8t5QQprIjzp76fcr&key=ff7411024a07f3ebf6601418be94ccd6219ed18e580029547278b6eadd5def524defc8dbfdfcf673a7daa87723cfa4bb&ascene=0&uin=NTYzMDc5MTc1&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=a82zcv0P%2B6ztN4xgcdnD%2FWtFbQjxhMOiiUJGZVbk6FUhTeozLqrMlGuES%2FvVmaI0)<br>
 
