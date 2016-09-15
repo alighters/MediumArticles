@@ -1,4 +1,5 @@
 ### 2016-09-15<br>
++ [RxJava Tidbits #2: Parallelism with Observable.zip() – RxJava Tidbits – Medium](https://medium.com/rxjava-tidbits/rxjava-tidbits-2-parallelism-with-observable-zip-6ef3c5a61a22#.yvm0ywtg8)<br>
 + [React-Redux Basics – Medium](https://medium.com/@MKulinski/react-redux-basics-a36914c0035d#.m4qg8grnk)<br>
 
 ### 2016-09-14<br>
