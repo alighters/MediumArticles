@@ -1,3 +1,6 @@
+### 2016-09-18<br>
++ [Step by Step Guide To Building React Redux Apps – Medium](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.c4rvxnw68)<br>
+
 ### 2016-09-17<br>
 + [用React+Redux+ES6写一个最傻瓜的Hello World - Jarvis - SegmentFault](https://segmentfault.com/a/1190000004355491)<br>
 + [The Skeptic’s Guide To React Native](https://shift.infinite.red/the-skeptic-s-guide-to-react-native-41677361dc23#.copb5to9q)<br>
