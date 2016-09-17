@@ -1,4 +1,5 @@
 ### 2016-09-17<br>
++ [用React+Redux+ES6写一个最傻瓜的Hello World - Jarvis - SegmentFault](https://segmentfault.com/a/1190000004355491)<br>
 + [The Skeptic’s Guide To React Native](https://shift.infinite.red/the-skeptic-s-guide-to-react-native-41677361dc23#.copb5to9q)<br>
 
 ### 2016-09-15<br>
