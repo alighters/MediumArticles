@@ -1,4 +1,5 @@
 ### 2016-09-18<br>
++ [Object.assign() - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)<br>
 + [Step by Step Guide To Building React Redux Apps – Medium](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.c4rvxnw68)<br>
 
 ### 2016-09-17<br>
