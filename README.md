@@ -1,4 +1,5 @@
 ### 2016-09-20<br>
++ [Symbols in ECMAScript 6](http://www.2ality.com/2014/12/es6-symbols.html)<br>
 + [深入解析 ES6：Symbol | bubkoo](http://bubkoo.com/2015/07/24/es6-in-depth-symbols/)<br>
 
 ### 2016-09-19<br>
