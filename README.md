@@ -1,3 +1,6 @@
+### 2016-09-20<br>
++ [深入解析 ES6：Symbol | bubkoo](http://bubkoo.com/2015/07/24/es6-in-depth-symbols/)<br>
+
 ### 2016-09-19<br>
 + [JavaScript Promises](https://davidwalsh.name/promises)<br>
 + [fetch API](https://davidwalsh.name/fetch)<br>
