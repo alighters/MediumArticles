@@ -1,3 +1,6 @@
+### 2016-09-21<br>
++ [redux/compose.md at master · reactjs/redux](https://github.com/reactjs/redux/blob/master/docs/api/compose.md)<br>
+
 ### 2016-09-20<br>
 + [Symbols in ECMAScript 6](http://www.2ality.com/2014/12/es6-symbols.html)<br>
 + [深入解析 ES6：Symbol | bubkoo](http://bubkoo.com/2015/07/24/es6-in-depth-symbols/)<br>
