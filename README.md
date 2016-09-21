@@ -1,4 +1,5 @@
 ### 2016-09-21<br>
++ [Where to Hold React Component Data: state, store, static, and this](https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00#.phaxe2f0y)<br>
 + [redux/compose.md at master · reactjs/redux](https://github.com/reactjs/redux/blob/master/docs/api/compose.md)<br>
 
 ### 2016-09-20<br>
