@@ -1,4 +1,5 @@
 ### 2016-09-21<br>
++ [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.mnxj5hs3v)<br>
 + [Where to Hold React Component Data: state, store, static, and this](https://medium.freecodecamp.com/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00#.phaxe2f0y)<br>
 + [redux/compose.md at master · reactjs/redux](https://github.com/reactjs/redux/blob/master/docs/api/compose.md)<br>
 
