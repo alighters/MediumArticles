@@ -1,3 +1,6 @@
+### 2016-09-24<br>
++ [Maven实战（六）——Gradle，构建工具的未来？](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle#anch67507)<br>
+
 ### 2016-09-23<br>
 + [Android 新一代编译 toolchain Jack & Jill 简介 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/05/05/new-compiler-for-android/)<br>
 
