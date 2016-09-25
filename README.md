@@ -1,3 +1,6 @@
+### 2016-09-25<br>
++ [Gradle学习系列之二——创建Task的多种方法 - 无知者云 - 博客园](http://www.cnblogs.com/davenkin/p/gradle-learning-2.html)<br>
+
 ### 2016-09-24<br>
 + [深入理解Android之Gradle - Innost的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/innost/article/details/48228651)<br>
 + [Maven实战（六）——Gradle，构建工具的未来？](http://www.infoq.com/cn/news/2011/04/xxb-maven-6-gradle#anch67507)<br>
