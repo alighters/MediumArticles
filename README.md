@@ -1,3 +1,6 @@
+### 2016-09-26<br>
++ [Overview (Android Gradle API)](http://google.github.io/android-gradle-dsl/javadoc/current/)<br>
+
 ### 2016-09-25<br>
 + [Gradle学习系列之二——创建Task的多种方法 - 无知者云 - 博客园](http://www.cnblogs.com/davenkin/p/gradle-learning-2.html)<br>
 
