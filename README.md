@@ -1,4 +1,5 @@
 ### 2016-09-26<br>
++ [微信Android热补丁实践演进之路 - 简书](http://www.jianshu.com/p/7e5967524947)<br>
 + [Overview (Android Gradle API)](http://google.github.io/android-gradle-dsl/javadoc/current/)<br>
 
 ### 2016-09-25<br>
