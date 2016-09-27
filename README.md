@@ -1,4 +1,5 @@
 ### 2016-09-27<br>
++ [Android Handler Internals – Medium](https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.dzrtoeoum)<br>
 + [Awesome pre-launch reports for Alpha/Beta APK’s – Medium](https://medium.com/@AruLNadhaN/awesome-pre-launch-reports-for-alpha-beta-apks-9960ac5c403c#.54kt5pdzv)<br>
 + [Whats in the APK? · Crushing C.O.D.E](http://crushingcode.co/whats-in-the-apk/)<br>
 
