@@ -1,3 +1,6 @@
+### 2016-09-27<br>
++ [Whats in the APK? · Crushing C.O.D.E](http://crushingcode.co/whats-in-the-apk/)<br>
+
 ### 2016-09-26<br>
 + [Example · pxb1988/dex2jar Wiki](https://github.com/pxb1988/dex2jar/wiki/Example)<br>
 + [Writing Custom Plugins - Gradle User Guide Version 3.1](https://docs.gradle.org/current/userguide/custom_plugins.html)<br>
