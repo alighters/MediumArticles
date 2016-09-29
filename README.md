@@ -1,3 +1,6 @@
+### 2016-09-29<br>
++ [Interesting React-Native projects to learn from](https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.9lrjec3h8)<br>
+
 ### 2016-09-27<br>
 + [Android leak pattern: subscriptions in views – Square Corner Blog – Medium](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.t8pxyull4)<br>
 + [Android Handler Internals – Medium](https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.dzrtoeoum)<br>
