@@ -1,4 +1,5 @@
 ### 2016-10-10<br>
++ [React Native 从入门到原理 - 简书](http://www.jianshu.com/p/978c4bd3a759)<br>
 + [AndroidDev/React Native On Android.md at master · TsinStudio/AndroidDev](https://github.com/TsinStudio/AndroidDev/blob/master/React%20Native%20On%20Android.md)<br>
 
 ### 2016-10-08<br>
