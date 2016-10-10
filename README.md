@@ -1,5 +1,6 @@
 ### 2016-10-10<br>
 + [React-Native系列Android——Native与Javascript通信原理（一） - MegatronKings的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/megatronkings/article/details/51114278)<br>
++ [React-Native系列Android——Native与Javascript通信原理（一） - MegatronKings的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/megatronkings/article/details/51114278)<br>
 + [React Native 从入门到原理 - 简书](http://www.jianshu.com/p/978c4bd3a759)<br>
 + [AndroidDev/React Native On Android.md at master · TsinStudio/AndroidDev](https://github.com/TsinStudio/AndroidDev/blob/master/React%20Native%20On%20Android.md)<br>
 
