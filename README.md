@@ -1,3 +1,6 @@
+### 2016-10-11<br>
++ [我对 React Native 的理解和看法 - Div.IO](http://div.io/topic/851)<br>
+
 ### 2016-10-10<br>
 + [运行 React Native 的默认工程 UIExplorer | Mystra](http://www.wangchenlong.org/2016/04/07/1604/071-rn-uiexplorer/)<br>
 + [React-Native系列Android——Native与Javascript通信原理（三） - MegatronKings的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/MegatronKings/article/details/51195110)<br>
