@@ -1,4 +1,5 @@
 ### 2016-10-12<br>
++ [Android tasks | Gradle Plugin User Guide 中文版](https://avatarqing.gitbooks.io/gradlepluginuserguidechineseverision/content/basic_project/android_tasks.html)<br>
 + [React Native Android 通信原理](https://longv2go.github.io/2016/02/02/react-android-%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86.html)<br>
 + [React Native运行原理解析 - xiangzhihong8的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiangzhihong8/article/details/52623852)<br>
 
