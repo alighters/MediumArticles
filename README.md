@@ -1,3 +1,6 @@
+### 2016-10-12<br>
++ [React Native运行原理解析 - xiangzhihong8的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiangzhihong8/article/details/52623852)<br>
+
 ### 2016-10-11<br>
 + [Android JNI和NDK学习(03)--动态方式实现JNI - 如果天空不死 - 博客园](http://www.cnblogs.com/skywang12345/archive/2013/05/23/3092491.html)<br>
 + [Learn CSS Flexbox in 3 Minutes – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672#.v38dt8o8f)<br>
