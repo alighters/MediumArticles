@@ -1,3 +1,6 @@
+### 2016-10-13<br>
++ [proxifier注册码以及配合shadowsocks上网 - 科学上网](http://gooday.xyz/proxifier%E6%B3%A8%E5%86%8C%E7%A0%81%E4%BB%A5%E5%8F%8A%E9%85%8D%E5%90%88shadowsocks%E4%B8%8A%E7%BD%91/)<br>
+
 ### 2016-10-12<br>
 + [Android tasks | Gradle Plugin User Guide 中文版](https://avatarqing.gitbooks.io/gradlepluginuserguidechineseverision/content/basic_project/android_tasks.html)<br>
 + [React Native Android 通信原理](https://longv2go.github.io/2016/02/02/react-android-%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86.html)<br>
