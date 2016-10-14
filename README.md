@@ -1,3 +1,6 @@
+### 2016-10-14<br>
++ [Using Shadowsocks with Command Line Tools · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools)<br>
+
 ### 2016-10-13<br>
 + [proxifier注册码以及配合shadowsocks上网 - 科学上网](http://gooday.xyz/proxifier%E6%B3%A8%E5%86%8C%E7%A0%81%E4%BB%A5%E5%8F%8A%E9%85%8D%E5%90%88shadowsocks%E4%B8%8A%E7%BD%91/)<br>
 
