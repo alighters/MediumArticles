@@ -1,3 +1,6 @@
+### 2016-10-15<br>
++ [Profiling with Traceview and dmtracedump | Android Studio](https://developer.android.com/studio/profile/traceview.html)<br>
+
 ### 2016-10-14<br>
 + [Using Shadowsocks with Command Line Tools · shadowsocks/shadowsocks Wiki](https://github.com/shadowsocks/shadowsocks/wiki/Using-Shadowsocks-with-Command-Line-Tools)<br>
 
