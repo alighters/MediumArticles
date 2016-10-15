@@ -1,4 +1,5 @@
 ### 2016-10-15<br>
++ [Installing and configuring Java on Mac OS X](http://members.wolfram.com/meng/pages/computing/installing_and_configuring/installing_and_configuring_Java_on_Mac_OS_X/#.WAIf2pN96Aw)<br>
 + [Developing | Android Open Source Project](http://source.android.com/source/developing.html)<br>
 + [Profiling with Traceview and dmtracedump | Android Studio](https://developer.android.com/studio/profile/traceview.html)<br>
 
