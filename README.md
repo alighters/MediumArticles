@@ -1,3 +1,6 @@
+### 2016-10-17<br>
++ [Android Plugin 2.2 DSL Reference](http://google.github.io/android-gradle-dsl/current/)<br>
+
 ### 2016-10-15<br>
 + [Installing and configuring Java on Mac OS X](http://members.wolfram.com/meng/pages/computing/installing_and_configuring/installing_and_configuring_Java_on_Mac_OS_X/#.WAIf2pN96Aw)<br>
 + [Developing | Android Open Source Project](http://source.android.com/source/developing.html)<br>
