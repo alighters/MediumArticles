@@ -1,4 +1,6 @@
 ### 2016-10-19<br>
++ [如何将 Vim 打造成一个成熟的 IDE](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652564237&idx=1&sn=fcc8e48d80d7d85c19cb2bc82d458787&chksm=8464c347b3134a51c2373d69e03e284be9d49121b50c342d8337c7b538f19a07a0dd990466ad&scene=0#rd)<br>
++ [Java 7 源码学习系列（三）——BigInteger-HollisChuang's Blog](http://www.hollischuang.com/archives/176)<br>
 + [【面试】BigInteger的部分实现【转】 - 宋轶山 - ITeye技术网站](http://songyishan.iteye.com/blog/1026042)<br>
 + [一些不起眼但非常有用的Vim命令](http://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649443719&idx=1&sn=00fe9294fd6cb1ba2f7da059024984d7&chksm=f3a26cf4c4d5e5e2682d0b1a3eb6f5ffddfd99127c54bde26b3f0c349b7a7542c69b97e2c149&scene=0#rd)<br>
 
