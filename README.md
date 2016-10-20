@@ -1,3 +1,6 @@
+### 2016-10-20<br>
++ [Android’s multidex slows down app startup – Groupon Engineering – Medium](https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.6f1rn5ogq)<br>
+
 ### 2016-10-19<br>
 + [如何将 Vim 打造成一个成熟的 IDE](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652564237&idx=1&sn=fcc8e48d80d7d85c19cb2bc82d458787&chksm=8464c347b3134a51c2373d69e03e284be9d49121b50c342d8337c7b538f19a07a0dd990466ad&scene=0#rd)<br>
 + [Java 7 源码学习系列（三）——BigInteger-HollisChuang's Blog](http://www.hollischuang.com/archives/176)<br>
