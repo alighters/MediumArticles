@@ -1,4 +1,5 @@
 ### 2016-10-21<br>
++ [dex2oat程序参数总结 - Roland_Sun的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/roland_sun/article/details/50234551)<br>
 + [How Android Apps are Built and Run · dogriffiths/HeadFirstAndroid Wiki](https://github.com/dogriffiths/HeadFirstAndroid/wiki/How-Android-Apps-are-Built-and-Run)<br>
 + [递归为什么那么慢？递归的改进算法 - 简书](http://www.jianshu.com/p/6bdc8e3637f2)<br>
 
