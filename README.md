@@ -1,4 +1,5 @@
 ### 2016-10-21<br>
++ [How apps are built and run on the Android Runtime (ART) – Medium](https://medium.com/@HeadFirstDroid/how-apps-are-built-and-run-on-the-android-runtime-art-c027f73edb09#.9fdk57bor)<br>
 + [dex2oat程序参数总结 - Roland_Sun的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/roland_sun/article/details/50234551)<br>
 + [How Android Apps are Built and Run · dogriffiths/HeadFirstAndroid Wiki](https://github.com/dogriffiths/HeadFirstAndroid/wiki/How-Android-Apps-are-Built-and-Run)<br>
 + [递归为什么那么慢？递归的改进算法 - 简书](http://www.jianshu.com/p/6bdc8e3637f2)<br>
