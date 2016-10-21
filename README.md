@@ -1,4 +1,5 @@
 ### 2016-10-21<br>
++ [Exploring the Android Design Support Library: Bottom Navigation View – Medium](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.1to32idug)<br>
 + [剖析 Android ART Runtime (2) – dex2oat - Mingshen Sun @ CUHK](https://mssun.me/blog/android-art-runtime-2-dex2oat.html)<br>
 + [How apps are built and run on the Android Runtime (ART) – Medium](https://medium.com/@HeadFirstDroid/how-apps-are-built-and-run-on-the-android-runtime-art-c027f73edb09#.9fdk57bor)<br>
 + [dex2oat程序参数总结 - Roland_Sun的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/roland_sun/article/details/50234551)<br>
