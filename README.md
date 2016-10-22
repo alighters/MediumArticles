@@ -1,4 +1,8 @@
+### 2016-10-22<br>
++ [Gradle tip #3-Task顺序 - 大头鬼Bruce - 博客频道 - CSDN.NET](http://blog.csdn.net/lzyzsd/article/details/46935405)<br>
+
 ### 2016-10-21<br>
++ [Manacher's ALGORITHM: O(n)时间求字符串的最长回文子串 - Felix021 - 借我一束光照亮黯淡](https://www.felix021.com/blog/read.php?2040)<br>
 + [Exploring the Android Design Support Library: Bottom Navigation View – Medium](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.1to32idug)<br>
 + [剖析 Android ART Runtime (2) – dex2oat - Mingshen Sun @ CUHK](https://mssun.me/blog/android-art-runtime-2-dex2oat.html)<br>
 + [How apps are built and run on the Android Runtime (ART) – Medium](https://medium.com/@HeadFirstDroid/how-apps-are-built-and-run-on-the-android-runtime-art-c027f73edb09#.9fdk57bor)<br>
