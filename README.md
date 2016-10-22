@@ -1,4 +1,6 @@
 ### 2016-10-22<br>
++ [别人家的面试题：不用加减乘除，求整数的7倍 - 十年踪迹的博客](https://www.h5jun.com/post/multiply7.html)<br>
++ [构建神器Gradle | Jason's Blog](http://jiajixin.cn/2015/08/07/gradle-android/)<br>
 + [使用Gradle生成一个App的不同版本，且可以同时安装在一个手机上 - When Go meets Raspberry Pi](http://hugozhu.myalert.info/2014/08/03/50-use-gradle-to-customize-apk-build.html)<br>
 + [Gradle tip #3-Task顺序 - 大头鬼Bruce - 博客频道 - CSDN.NET](http://blog.csdn.net/lzyzsd/article/details/46935405)<br>
 
