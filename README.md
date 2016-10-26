@@ -1,3 +1,9 @@
+### 2016-10-26<br>
++ [计算机原理](http://202.197.191.206:8080/23/text/ch02/se03/part2/2_3_2.htm)<br>
+
+### 2016-10-24<br>
++ [简化markdown写作中的贴图流程 | Weishu's Notes](http://weishu.me/2015/10/16/simplify-the-img-upload-in-markdown/)<br>
+
 ### 2016-10-22<br>
 + [如何使用Android Studio开发Gradle插件 - 区长的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sbsujjbcy/article/details/50782830)<br>
 + [美团Android DEX自动拆包及动态加载简介 -](http://tech.meituan.com/mt-android-auto-split-dex.html)<br>
