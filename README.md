@@ -1,3 +1,6 @@
+### 2016-10-27<br>
++ [位运算之巧用 - alighters](http://alighters.com/blog/2016/10/27/bit-skill/)<br>
+
 ### 2016-10-26<br>
 + [计算机原理](http://202.197.191.206:8080/23/text/ch02/se03/part2/2_3_2.htm)<br>
 
