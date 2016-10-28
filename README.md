@@ -1,3 +1,6 @@
+### 2016-10-28<br>
++ [程序员必读书单 1.0 | Lucida](http://lucida.me/blog/developer-reading-list/#javascript)<br>
+
 ### 2016-10-27<br>
 + [位运算之巧用 - alighters](http://alighters.com/blog/2016/10/27/bit-skill/)<br>
 
