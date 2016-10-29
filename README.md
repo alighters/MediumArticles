@@ -1,3 +1,6 @@
+### 2016-10-29<br>
++ [Master the JavaScript Interview: What is a Closure? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.4ulrbl55f)<br>
+
 ### 2016-10-28<br>
 + [程序员必读书单 1.0 | Lucida](http://lucida.me/blog/developer-reading-list/#javascript)<br>
 
