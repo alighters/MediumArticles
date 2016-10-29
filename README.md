@@ -1,4 +1,5 @@
 ### 2016-10-29<br>
++ [dexopt优化和验证Dalvik （Dalvik Optimization and Verification With dexopt） - 87426628的日志 - 网易博客](http://87426628.blog.163.com/blog/static/6069361820139481045937/)<br>
 + [Master the JavaScript Interview: What is a Closure? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.4ulrbl55f)<br>
 
 ### 2016-10-28<br>
