@@ -1,4 +1,5 @@
 ### 2016-10-31<br>
++ [Writing Custom Task Classes - Gradle User Guide Version 3.1](https://docs.gradle.org/current/userguide/custom_tasks.html)<br>
 + [Writing Custom Plugins - Gradle User Guide Version 3.1](https://docs.gradle.org/current/userguide/custom_plugins.html)<br>
 
 ### 2016-10-29<br>
