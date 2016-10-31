@@ -1,3 +1,6 @@
+### 2016-10-31<br>
++ [Writing Custom Plugins - Gradle User Guide Version 3.1](https://docs.gradle.org/current/userguide/custom_plugins.html)<br>
+
 ### 2016-10-29<br>
 + [Dalvik Optimization and Verification With dexopt](http://linghaolu.github.io/dalvik/2016/08/16/dalvik-dexopt.html)<br>
 + [dexopt优化和验证Dalvik （Dalvik Optimization and Verification With dexopt） - 87426628的日志 - 网易博客](http://87426628.blog.163.com/blog/static/6069361820139481045937/)<br>
