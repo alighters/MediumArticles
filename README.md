@@ -1,3 +1,6 @@
+### 2016-11-03<br>
++ [ASM - Bytecode Outline plugin for Eclipse](http://asm.ow2.org/eclipse/index.html)<br>
+
 ### 2016-11-02<br>
 + [Android Gradle Learnings: Hooking into Android Tasks](http://gregloesch.com/dev/2015/08/19/Android-Gradle-Learnings.html)<br>
 + [52-technologies-in-2016/README.md at master · shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/31-gradle-tips/README.md)<br>
