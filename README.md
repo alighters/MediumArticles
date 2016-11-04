@@ -1,3 +1,6 @@
+### 2016-11-04<br>
++ [JVM、ASM - xiejuntao的个人空间 - 开源中国社区](https://my.oschina.net/xiejuntao/blog/151910)<br>
+
 ### 2016-11-03<br>
 + [ASM - Bytecode Outline plugin for Eclipse](http://asm.ow2.org/eclipse/index.html)<br>
 
