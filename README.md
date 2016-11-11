@@ -1,3 +1,6 @@
+### 2016-11-11<br>
++ [我的年度书单](http://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648945669&idx=1&sn=ccb59f33a3ac3c34de13f083effa7bf2&chksm=8f5b5309b82cda1fefd6c7c10c0838aaf94af55bd254f3199bf4b2b3fbb9fdf63ab06e379493#rd)<br>
+
 ### 2016-11-10<br>
 + [Binder学习指南 - 简书](http://www.jianshu.com/p/af2993526daf)<br>
 
