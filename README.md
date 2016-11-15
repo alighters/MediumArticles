@@ -1,4 +1,5 @@
 ### 2016-11-15<br>
++ [Android Bander设计与实现 - 设计篇 - universus的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/universus/article/details/6211589)<br>
 + [Binder学习指南 - 简书](http://www.jianshu.com/p/af2993526daf)<br>
 
 ### 2016-11-11<br>
