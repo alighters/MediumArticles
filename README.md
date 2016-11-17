@@ -1,3 +1,6 @@
+### 2016-11-17<br>
++ [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)<br>
+
 ### 2016-11-16<br>
 + [【Android进阶】android:configChanges属性总结 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhaokaiqiang1992/article/details/19921703)<br>
 
