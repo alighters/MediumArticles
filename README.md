@@ -1,3 +1,6 @@
+### 2016-11-21<br>
++ [[方法论]如何阅读一本书？ - Yet Another Thoughts](http://conndots.github.io/2016/11/19/how_read_a_book/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
+
 ### 2016-11-17<br>
 + [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)<br>
 
