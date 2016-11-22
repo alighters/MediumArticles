@@ -1,3 +1,6 @@
+### 2016-11-22<br>
++ [通过 python 调用 adb 命令实现用元素名称、id、class 定位元素 · TesterHome](https://testerhome.com/topics/1047)<br>
+
 ### 2016-11-21<br>
 + [[方法论]如何阅读一本书？ - Yet Another Thoughts](http://conndots.github.io/2016/11/19/how_read_a_book/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 
