@@ -1,3 +1,6 @@
+### 2016-11-23<br>
++ [Mastering the Terminal side of Android development – Medium](https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-development-e7520466c521#.ogitl2pxu)<br>
+
 ### 2016-11-22<br>
 + [通过 python 调用 adb 命令实现用元素名称、id、class 定位元素 · TesterHome](https://testerhome.com/topics/1047)<br>
 
