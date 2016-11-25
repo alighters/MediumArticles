@@ -1,4 +1,5 @@
 ### 2016-11-25<br>
++ [Android系统启动-zygote篇 - Gityuan博客](http://gityuan.com/2016/02/13/android-zygote/)<br>
 + [初探boot.art与boot.oat | 码农故事](http://www.iloveandroid.net/2015/12/19/AndroidART-2/)<br>
 
 ### 2016-11-24<br>
