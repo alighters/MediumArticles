@@ -1,3 +1,6 @@
+### 2016-11-25<br>
++ [初探boot.art与boot.oat | 码农故事](http://www.iloveandroid.net/2015/12/19/AndroidART-2/)<br>
+
 ### 2016-11-24<br>
 + [Android启动过程深入解析 - 安卓 - 伯乐在线](http://android.jobbole.com/67931/)<br>
 
