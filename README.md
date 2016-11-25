@@ -1,4 +1,6 @@
 ### 2016-11-25<br>
++ [Android 5.1 Lollipop的Zygote分析——下篇 | 码农故事](http://www.iloveandroid.net/2015/09/21/Zygote_2/)<br>
++ [Android 6.0 系统学习之 Zygote | JudyMaxiee's blog](http://www.judymax.com/archives/1118)<br>
 + [Android系统启动-zygote篇 - Gityuan博客](http://gityuan.com/2016/02/13/android-zygote/)<br>
 + [初探boot.art与boot.oat | 码农故事](http://www.iloveandroid.net/2015/12/19/AndroidART-2/)<br>
 
