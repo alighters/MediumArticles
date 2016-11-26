@@ -1,3 +1,6 @@
+### 2016-11-26<br>
++ [Android 5.1 Lollipop的Zygote分析——上篇 | 码农故事](http://www.iloveandroid.net/2015/09/21/Zygote_1/)<br>
+
 ### 2016-11-25<br>
 + [Android 5.1 Lollipop的Zygote分析——下篇 | 码农故事](http://www.iloveandroid.net/2015/09/21/Zygote_2/)<br>
 + [Android 6.0 系统学习之 Zygote | JudyMaxiee's blog](http://www.judymax.com/archives/1118)<br>
