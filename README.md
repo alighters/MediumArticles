@@ -1,4 +1,5 @@
 ### 2016-11-28<br>
++ [【Linux操作系统分析】计算机是怎样工作的 - suzhou - 博客园](http://www.cnblogs.com/suzhou/archive/2013/05/15/3639011.html#3454841)<br>
 + [linux中fork（）函数详解（原创！！实例讲解） - jason的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jason314/article/details/5640969)<br>
 + [UNIX高级环境编程（9）进程控制（Process Control）- fork，vfork，僵尸进程，wait和waitpid - suzhou - 博客园](http://www.cnblogs.com/suzhou/p/4348978.html)<br>
 + [fork_互动百科](http://www.baike.com/wiki/fork)<br>
