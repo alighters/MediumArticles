@@ -1,4 +1,5 @@
 ### 2016-11-29<br>
++ [理解Android进程创建流程 - 安卓 - 伯乐在线](http://android.jobbole.com/82752/)<br>
 + [Android启动过程深入解析 - 安卓 - 伯乐在线](http://android.jobbole.com/67931/)<br>
 + [Linux进程地址空间学习(一)](http://www.choudan.net/2013/10/24/Linux%E8%BF%9B%E7%A8%8B%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E5%AD%A6%E4%B9%A0(%E4%B8%80).html)<br>
 + [进程地址空间与虚拟存储空间的理解 - 游手好弦 信步涂鸦 - 博客频道 - CSDN.NET](http://blog.csdn.net/do2jiang/article/details/4690967)<br>
