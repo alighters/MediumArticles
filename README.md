@@ -1,4 +1,5 @@
 ### 2016-12-02<br>
++ [Android JNI原理分析 - Gityuan博客](http://gityuan.com/2016/05/28/android-jni/)<br>
 + [Android开篇 - Gityuan博客](http://gityuan.com/android/)<br>
 + [LinuxTool/gcc.md at master · guodongxiaren/LinuxTool](https://github.com/guodongxiaren/LinuxTool/blob/master/gcc.md)<br>
 
