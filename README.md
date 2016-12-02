@@ -1,4 +1,5 @@
 ### 2016-12-02<br>
++ [Android开篇 - Gityuan博客](http://gityuan.com/android/)<br>
 + [LinuxTool/gcc.md at master · guodongxiaren/LinuxTool](https://github.com/guodongxiaren/LinuxTool/blob/master/gcc.md)<br>
 
 ### 2016-12-01<br>
