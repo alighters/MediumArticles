@@ -1,3 +1,6 @@
+### 2016-12-05<br>
++ [Linux进程地址管理之mm_struct - Rofael - 博客园](http://www.cnblogs.com/Rofael/archive/2013/04/13/3019153.html)<br>
+
 ### 2016-12-02<br>
 + [Android JNI原理分析 - Gityuan博客](http://gityuan.com/2016/05/28/android-jni/)<br>
 + [Android开篇 - Gityuan博客](http://gityuan.com/android/)<br>
