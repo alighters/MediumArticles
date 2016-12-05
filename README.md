@@ -1,4 +1,5 @@
 ### 2016-12-05<br>
++ [Linux进程描述符task_struct结构体详解--Linux进程的管理与调度（一） - AderStep - 博客频道 - CSDN.NET](http://blog.csdn.net/gatieme/article/details/51383272)<br>
 + [linux进程描述符task_struct详解 - hongchangfirst - 博客频道 - CSDN.NET](http://blog.csdn.net/hongchangfirst/article/details/7075026)<br>
 + [Linux进程地址管理之mm_struct - Rofael - 博客园](http://www.cnblogs.com/Rofael/archive/2013/04/13/3019153.html)<br>
 
