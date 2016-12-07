@@ -1,4 +1,5 @@
 ### 2016-12-07<br>
++ [Top 20 Navigation Features in IntelliJ IDEA – Medium](https://medium.com/@andrey_cheptsov/top-20-navigation-features-in-intellij-idea-ed8c17075880#.uiam2boex)<br>
 + [3.5.2 页式虚拟存储器](http://share.onlinesjtu.com/mod/tab/view.php?id=209)<br>
 + [​一道面试题：说说进程和线程的区别](http://mp.weixin.qq.com/s/f_OezOorxInJqzx8WT7x2g)<br>
 
