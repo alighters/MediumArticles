@@ -1,3 +1,6 @@
+### 2016-12-08<br>
++ [内存管理概述、内存分配与释放、地址映射机制（mm_struct, vm_area_struct）、malloc/free 的实现 - Meditation - 博客频道 - CSDN.NET](http://blog.csdn.net/jnu_simba/article/details/11757473)<br>
+
 ### 2016-12-07<br>
 + [Top 20 Navigation Features in IntelliJ IDEA – Medium](https://medium.com/@andrey_cheptsov/top-20-navigation-features-in-intellij-idea-ed8c17075880#.uiam2boex)<br>
 + [3.5.2 页式虚拟存储器](http://share.onlinesjtu.com/mod/tab/view.php?id=209)<br>
