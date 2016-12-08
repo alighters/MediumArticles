@@ -1,4 +1,5 @@
 ### 2016-12-08<br>
++ [Android 新一代编译 toolchain Jack & Jill 简介 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/05/05/new-compiler-for-android/)<br>
 + [Compiling with Jack | Android Open Source Project](https://source.android.com/source/jack.html#the_jack_toolchain)<br>
 + [Experimental New Android Tool Chain - Jack and Jill - Android Studio Project Site](http://tools.android.com/tech-docs/jackandjill)<br>
 + [内存管理概述、内存分配与释放、地址映射机制（mm_struct, vm_area_struct）、malloc/free 的实现 - Meditation - 博客频道 - CSDN.NET](http://blog.csdn.net/jnu_simba/article/details/11757473)<br>
