@@ -1,3 +1,6 @@
+### 2016-12-09<br>
++ [How to distribute your own Android library through jCenter and Maven Central from Android Studio :: The Cheese Factory](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)<br>
+
 ### 2016-12-08<br>
 + [Android 新一代编译 toolchain Jack & Jill 简介 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/05/05/new-compiler-for-android/)<br>
 + [Compiling with Jack | Android Open Source Project](https://source.android.com/source/jack.html#the_jack_toolchain)<br>
