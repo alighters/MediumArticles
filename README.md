@@ -1,4 +1,5 @@
 ### 2016-12-10<br>
++ [使用 Java 8 语言功能 | Android Developers](https://developer.android.com/guide/platform/j8-jack.html)<br>
 + [Getting Started · Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)<br>
 
 ### 2016-12-09<br>
