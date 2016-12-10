@@ -1,3 +1,6 @@
+### 2016-12-10<br>
++ [Getting Started · Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)<br>
+
 ### 2016-12-09<br>
 + [How to distribute your own Android library through jCenter and Maven Central from Android Studio :: The Cheese Factory](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)<br>
 
