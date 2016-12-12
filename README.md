@@ -1,3 +1,6 @@
+### 2016-12-12<br>
++ [Experimental New Android Tool Chain - Jack and Jill - Android Studio Project Site](http://tools.android.com/tech-docs/jackandjill)<br>
+
 ### 2016-12-10<br>
 + [使用 Java 8 语言功能 | Android Developers](https://developer.android.com/guide/platform/j8-jack.html)<br>
 + [Getting Started · Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/)<br>
