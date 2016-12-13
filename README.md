@@ -1,3 +1,6 @@
+### 2016-12-13<br>
++ [How to debug Gradle script](http://georgik.sinusgear.com/2014/06/23/how-to-debug-gradle-script/)<br>
+
 ### 2016-12-12<br>
 + [Experimental New Android Tool Chain - Jack and Jill - Android Studio Project Site](http://tools.android.com/tech-docs/jackandjill)<br>
 
