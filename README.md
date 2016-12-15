@@ -1,3 +1,6 @@
+### 2016-12-15<br>
++ [Android - The dark side of Jack and Jill](http://trickyandroid.com/the-dark-world-of-jack-and-jill/)<br>
+
 ### 2016-12-13<br>
 + [» hdiutil 一米马](http://www.1mima.com/tag/hdiutil/)<br>
 + [How to debug Gradle script](http://georgik.sinusgear.com/2014/06/23/how-to-debug-gradle-script/)<br>
