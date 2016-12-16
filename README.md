@@ -1,3 +1,6 @@
+### 2016-12-16<br>
++ [Android源码的下载、编译与导入到Android Studio | 湫水长天](http://wl9739.github.io/2016/05/09/Android%E6%BA%90%E7%A0%81%E7%9A%84%E4%B8%8B%E8%BD%BD%E3%80%81%E7%BC%96%E8%AF%91%E4%B8%8E%E5%AF%BC%E5%85%A5%E5%88%B0Android-Studio/)<br>
+
 ### 2016-12-15<br>
 + [Android - The dark side of Jack and Jill](http://trickyandroid.com/the-dark-world-of-jack-and-jill/)<br>
 
