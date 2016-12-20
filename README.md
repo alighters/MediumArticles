@@ -1,3 +1,6 @@
+### 2016-12-20<br>
++ [Gradle 命令行的基本使用 - Gradle 使用指南 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/gradle/using-the-gradle-command-line.html)<br>
+
 ### 2016-12-18<br>
 + [嘿！让我们来手动编译安卓项目吧 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0603/4331.html)<br>
 
