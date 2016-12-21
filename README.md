@@ -1,3 +1,6 @@
+### 2016-12-21<br>
++ [原生 Android 项目集成 React Native | 慌不要慌](https://danke77.github.io/2016/10/17/react-native-embedding-android/)<br>
+
 ### 2016-12-20<br>
 + [Gradle 命令行的基本使用 - Gradle 使用指南 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/gradle/using-the-gradle-command-line.html)<br>
 
