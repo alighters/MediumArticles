@@ -1,3 +1,6 @@
+### 2016-12-22<br>
++ [npm scripts 使用指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)<br>
+
 ### 2016-12-21<br>
 + [原生 Android 项目集成 React Native | 慌不要慌](https://danke77.github.io/2016/10/17/react-native-embedding-android/)<br>
 
