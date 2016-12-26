@@ -1,3 +1,6 @@
+### 2016-12-26<br>
++ [Android Tip: adb reverse | Grio Blog](http://blog.grio.com/2015/07/android-tip-adb-reverse.html)<br>
+
 ### 2016-12-23<br>
 + [Mixing 32- and 64-bit Dependencies in Android - Corbt blog](https://corbt.com/posts/2015/09/18/mixing-32-and-64bit-dependencies-in-android.html)<br>
 + [Working With Files - Gradle User Guide Version 3.2.1](https://docs.gradle.org/current/userguide/working_with_files.html)<br>
