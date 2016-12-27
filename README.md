@@ -1,4 +1,5 @@
 ### 2016-12-27<br>
++ [mainDexClasses脚本分析](http://coolpers.github.io/multidex/maindexclasses/2015/04/23/mainDexClasses%E8%84%9A%E6%9C%AC%E5%88%86%E6%9E%90.html)<br>
 + [shell中>/dev/null 2>&1是什么鬼？ | 夜有所思，日有所梦](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 
 ### 2016-12-26<br>
