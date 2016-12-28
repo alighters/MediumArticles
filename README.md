@@ -1,4 +1,5 @@
 ### 2016-12-28<br>
++ [10 Must See Web Apps & Games – JavaScript Scene – Medium](https://medium.com/javascript-scene/10-must-see-web-apps-games-36ab9ca60754#.pxmvbm94c)<br>
 + [Why Native Apps Really are Doomed: Native Apps are Doomed pt 2 – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.glidntejp)<br>
 
 ### 2016-12-27<br>
