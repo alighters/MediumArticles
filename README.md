@@ -1,3 +1,6 @@
+### 2016-12-29<br>
++ [linux中shell变量$#,$@,$0,$1,$2的含义解释 - fhefh - 博客园](http://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)<br>
+
 ### 2016-12-28<br>
 + [3 ways to solve java.lang.NoClassDefFoundError in Java J2EE](http://javarevisited.blogspot.com/2011/06/noclassdeffounderror-exception-in.html)<br>
 + [10 Must See Web Apps & Games – JavaScript Scene – Medium](https://medium.com/javascript-scene/10-must-see-web-apps-games-36ab9ca60754#.pxmvbm94c)<br>
