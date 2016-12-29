@@ -1,4 +1,5 @@
 ### 2016-12-29<br>
++ [解决npm 的 shasum check failed for错误（npm注册国内镜像介绍） - Mr.稻 帅（学以致用是一种习惯！） - 博客频道 - CSDN.NET](http://blog.csdn.net/enson16855/article/details/23299787)<br>
 + [linux中shell变量$#,$@,$0,$1,$2的含义解释 - fhefh - 博客园](http://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)<br>
 
 ### 2016-12-28<br>
