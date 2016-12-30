@@ -1,3 +1,6 @@
+### 2016-12-30<br>
++ [Code Push 热更新使用详细说明和教程 | 论坛 - React Native中文社区](http://bbs.reactnative.cn/topic/725/code-push-%E7%83%AD%E6%9B%B4%E6%96%B0%E4%BD%BF%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E5%92%8C%E6%95%99%E7%A8%8B)<br>
+
 ### 2016-12-29<br>
 + [解决npm 的 shasum check failed for错误（npm注册国内镜像介绍） - Mr.稻 帅（学以致用是一种习惯！） - 博客频道 - CSDN.NET](http://blog.csdn.net/enson16855/article/details/23299787)<br>
 + [linux中shell变量$#,$@,$0,$1,$2的含义解释 - fhefh - 博客园](http://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)<br>
