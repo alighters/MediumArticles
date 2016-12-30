@@ -1,4 +1,5 @@
 ### 2016-12-30<br>
++ [Code Push for React Native – Medium](https://medium.com/@0xfa11dead/code-push-for-react-native-8031e702158c#.e25ezrbex)<br>
 + [Code Push 热更新使用详细说明和教程 | 论坛 - React Native中文社区](http://bbs.reactnative.cn/topic/725/code-push-%E7%83%AD%E6%9B%B4%E6%96%B0%E4%BD%BF%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E5%92%8C%E6%95%99%E7%A8%8B)<br>
 
 ### 2016-12-29<br>
