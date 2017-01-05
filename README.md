@@ -1,3 +1,6 @@
+### 2017-01-05<br>
++ [谜之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别 - Gemini @ SegmentFault - SegmentFault](https://segmentfault.com/a/1190000004856071)<br>
+
 ### 2017-01-04<br>
 + [体验异步的终极解决方案-ES7的Async/Await - CNode技术社区](https://cnodejs.org/topic/5640b80d3a6aa72c5e0030b6)<br>
 
