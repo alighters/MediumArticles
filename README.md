@@ -1,3 +1,6 @@
+### 2017-01-06<br>
++ [Java线程同步：synchronized锁住的是代码还是对象 - 叉叉哥的BLOG - 博客频道 - CSDN.NET](http://blog.csdn.net/xiao__gui/article/details/8188833)<br>
+
 ### 2017-01-05<br>
 + [async 函数的含义和用法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/async.html)<br>
 + [谜之RxJava （三）update 2 —— subscribeOn 和 observeOn 的区别 - Gemini @ SegmentFault - SegmentFault](https://segmentfault.com/a/1190000004856071)<br>
