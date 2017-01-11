@@ -1,3 +1,6 @@
+### 2017-01-11<br>
++ [Android ART运行时无缝替换Dalvik虚拟机的过程分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/18006645)<br>
+
 ### 2017-01-07<br>
 + [OSI七层与TCP/IP五层网络架构详解](http://www.ha97.com/3215.html)<br>
 
