@@ -1,4 +1,5 @@
 ### 2017-01-16<br>
++ [Binder系列—开篇 - Gityuan博客](http://gityuan.com/2015/10/31/binder-prepare/)<br>
 + [彻底理解Android Binder通信架构 - Gityuan博客](http://gityuan.com/2016/09/04/binder-start-service/)<br>
 
 ### 2017-01-13<br>
