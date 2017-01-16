@@ -1,3 +1,12 @@
+### 2017-01-16<br>
++ [彻底理解Android Binder通信架构 - Gityuan博客](http://gityuan.com/2016/09/04/binder-start-service/)<br>
+
+### 2017-01-13<br>
++ [其实没那么复杂！探究react-native通信机制 | zjutkz's blog](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)<br>
+
+### 2017-01-12<br>
++ [A Beginner's Guide to npm — the Node Package Manager](https://www.sitepoint.com/beginners-guide-node-package-manager/)<br>
+
 ### 2017-01-11<br>
 + [Dalvik虚拟机简要介绍和学习计划 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/8852432)<br>
 + [Android ART运行时无缝替换Dalvik虚拟机的过程分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/18006645)<br>
