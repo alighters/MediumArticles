@@ -1,4 +1,5 @@
 ### 2017-01-16<br>
++ [一个前端开发工程师的Vim跟IDE一样 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000008097357?utm_source=gank.io&utm_medium=email)<br>
 + [Binder系列—开篇 - Gityuan博客](http://gityuan.com/2015/10/31/binder-prepare/)<br>
 + [彻底理解Android Binder通信架构 - Gityuan博客](http://gityuan.com/2016/09/04/binder-start-service/)<br>
 
