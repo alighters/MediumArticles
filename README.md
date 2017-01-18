@@ -1,3 +1,6 @@
+### 2017-01-18<br>
++ [Binder系列5—注册服务(addService) - Gityuan博客](http://gityuan.com/2015/11/14/binder-add-service/)<br>
+
 ### 2017-01-17<br>
 + [Binder系列4—获取ServiceManager - Gityuan博客](http://gityuan.com/2015/11/08/binder-get-sm/)<br>
 
