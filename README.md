@@ -1,3 +1,6 @@
+### 2017-01-19<br>
++ [彻底理解Android Binder通信架构 - Gityuan博客](http://gityuan.com/2016/09/04/binder-start-service/)<br>
+
 ### 2017-01-18<br>
 + [Binder系列6—获取服务(getService) - Gityuan博客](http://gityuan.com/2015/11/15/binder-get-service/)<br>
 + [Binder系列5—注册服务(addService) - Gityuan博客](http://gityuan.com/2015/11/14/binder-add-service/)<br>
