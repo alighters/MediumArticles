@@ -1,3 +1,6 @@
+### 2017-01-29<br>
++ [www.baidu.com](data:text/html,chromewebdata)<br>
+
 ### 2017-01-24<br>
 + [Binder系列2—Binder Driver再探 - Gityuan博客](http://gityuan.com/2015/11/02/binder-driver-2/)<br>
 
