@@ -1,3 +1,6 @@
+### 2017-02-06<br>
++ [android 中 dumpsys 命令使用 · TesterHome](https://testerhome.com/topics/1462)<br>
+
 ### 2017-01-29<br>
 + [www.baidu.com](data:text/html,chromewebdata)<br>
 
