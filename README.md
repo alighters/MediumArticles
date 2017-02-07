@@ -1,3 +1,6 @@
+### 2017-02-07<br>
++ [【死磕Java并发】—–深入分析synchronized的实现原理-cmsblogs-chenssy](http://cmsblogs.com/?hmsr=toutiao.io&p=2071&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
+
 ### 2017-02-06<br>
 + [android 中 dumpsys 命令使用 · TesterHome](https://testerhome.com/topics/1462)<br>
 
