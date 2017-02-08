@@ -1,3 +1,6 @@
+### 2017-02-08<br>
++ [Dalvik虚拟机JNI方法的注册过程分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/8923483)<br>
+
 ### 2017-02-07<br>
 + [【死磕Java并发】—–深入分析synchronized的实现原理-cmsblogs-chenssy](http://cmsblogs.com/?hmsr=toutiao.io&p=2071&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 
