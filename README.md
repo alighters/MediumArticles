@@ -1,4 +1,5 @@
 ### 2017-02-22<br>
++ [一线公司 Android 面试题，你会几道？](http://mp.weixin.qq.com/s?__biz=MzI1ODQ3NDA2Mg==&mid=2247483912&idx=1&sn=531f724312c0504413c705047a74877a&chksm=ea06eb29dd71623fe7d4ad2b6875bff57d9cf08d0b34832371f89872f0a71b117262de04cacc&mpshare=1&scene=1&srcid=0216jZbW2gN7KyEgvDkP6hNq#rd)<br>
 + [Android GC 从dalvik到ART的改进分析 | cruise yang](http://cruise1008.github.io/2016/03/30/Android-GC-%E4%BB%8Edalvik%E5%88%B0ART%E7%9A%84%E6%94%B9%E8%BF%9B%E5%88%86%E6%9E%90/)<br>
 + [【原创】【Android】揭秘 ART 细节 ---- Garbage collection - 空之弧 - 博客园](http://www.cnblogs.com/jinkeep/p/3818180.html)<br>
 + [Android 5.0 ART GC 对比 Android 4.x Dalvik GC | 毛宏斌的博客](http://hello2mao.github.io/2015/12/11/ART_GC_VS_Dalvik_GC.html)<br>
