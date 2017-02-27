@@ -1,3 +1,6 @@
+### 2017-02-28<br>
++ [深度了解Android 7.0 ，你准备好了吗？ - 腾讯WeTest](http://wetest.qq.com/lab/view/288.html?from=content_toutiao&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
+
 ### 2017-02-23<br>
 + [轻量级插件化框架——Small - 简书](http://www.jianshu.com/p/7990714d10cb)<br>
 
