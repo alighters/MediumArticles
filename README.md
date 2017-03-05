@@ -1,3 +1,6 @@
+### 2017-03-05<br>
++ [Android M doze特性预研](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207084007&idx=1&sn=f0d82cfee47b87fcec4f1f55989553e5&3rd=MzA3MDU4NTYzMw==&scene=6#rd)<br>
+
 ### 2017-03-04<br>
 + [QFix探索之路—手Q热补丁轻量级方案 - DEV CLUB](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)<br>
 
