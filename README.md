@@ -1,3 +1,7 @@
+### 2017-03-07<br>
++ [Android 7.0应用冷启动流程分析 - 代码之道,编程之法 - 博客频道 - CSDN.NET](http://blog.csdn.net/dd864140130/article/details/60466394)<br>
++ [如何调试Android Framework？ | Weishu's Notes](http://weishu.me/2016/05/30/how-to-debug-android-framework/)<br>
+
 ### 2017-03-05<br>
 + [Android M doze特性预研](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207084007&idx=1&sn=f0d82cfee47b87fcec4f1f55989553e5&3rd=MzA3MDU4NTYzMw==&scene=6#rd)<br>
 
