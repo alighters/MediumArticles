@@ -1,3 +1,6 @@
+### 2017-03-08<br>
++ [Android动态加载基础 ClassLoader工作机制 - 中二病也要开发ANDROID - SegmentFault](https://segmentfault.com/a/1190000004062880)<br>
+
 ### 2017-03-07<br>
 + [Android 7.0应用冷启动流程分析 - 代码之道,编程之法 - 博客频道 - CSDN.NET](http://blog.csdn.net/dd864140130/article/details/60466394)<br>
 + [如何调试Android Framework？ | Weishu's Notes](http://weishu.me/2016/05/30/how-to-debug-android-framework/)<br>
