@@ -1,3 +1,6 @@
+### 2017-03-12<br>
++ [并发新特性—Lock 锁与条件变量 - Java 并发编程 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/java-concurrency/lock.html)<br>
+
 ### 2017-03-08<br>
 + [Android动态加载基础 ClassLoader工作机制 - 中二病也要开发ANDROID - SegmentFault](https://segmentfault.com/a/1190000004062880)<br>
 
