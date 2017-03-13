@@ -1,3 +1,6 @@
+### 2017-03-13<br>
++ [Android N混合使用AOT编译，解释和JIT三种运行时](http://www.infoq.com/cn/news/2016/04/android-n-aot-jit)<br>
+
 ### 2017-03-12<br>
 + [并发新特性—Lock 锁与条件变量 - Java 并发编程 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/java-concurrency/lock.html)<br>
 
