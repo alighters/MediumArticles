@@ -1,4 +1,5 @@
 ### 2017-03-13<br>
++ [Android动态加载基础 ClassLoader工作机制 - 中二病也要开发ANDROID - SegmentFault](https://segmentfault.com/a/1190000004062880)<br>
 + [Android安全–Dex文件格式详解](http://www.blogfshare.com/dex-format.html)<br>
 + [Android N混合使用AOT编译，解释和JIT三种运行时](http://www.infoq.com/cn/news/2016/04/android-n-aot-jit)<br>
 
