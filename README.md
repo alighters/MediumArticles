@@ -1,3 +1,7 @@
+### 2017-03-21<br>
++ [自动打点Android客户设计文档](http://98ki.com/zi-dong-da-dian-ke-hu-she-ji-yu-shi-xian/)<br>
++ [Android 中使用ASM，对Activity生命周期打点统计 - 简书](http://www.jianshu.com/p/b33da498d6ba)<br>
+
 ### 2017-03-14<br>
 + [图解Javascript this指向什么？_慕课手记](http://www.imooc.com/article/1848)<br>
 + [文件锁(Filelock) - adm1989 - 博客园](http://www.cnblogs.com/adm1989/archive/2012/11/21/2781355.html)<br>
