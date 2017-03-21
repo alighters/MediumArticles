@@ -1,4 +1,5 @@
 ### 2017-03-21<br>
++ [Java并发编程：CountDownLatch、CyclicBarrier和Semaphore - 海 子 - 博客园](http://www.cnblogs.com/dolphin0520/p/3920397.html)<br>
 + [自动打点Android客户设计文档](http://98ki.com/zi-dong-da-dian-ke-hu-she-ji-yu-shi-xian/)<br>
 + [Android 中使用ASM，对Activity生命周期打点统计 - 简书](http://www.jianshu.com/p/b33da498d6ba)<br>
 
