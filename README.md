@@ -1,4 +1,5 @@
 ### 2017-03-23<br>
++ [Let’s implement Android Data Binding library in your android app](https://android.jlelse.eu/lets-implement-android-data-binding-in-your-android-app-d6c567c242c9#.9yxkdskkw)<br>
 + [Exploring Android O: Notification Channels – Exploring Android – Medium](https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c#.n1jq8le9e)<br>
 
 ### 2017-03-22<br>
