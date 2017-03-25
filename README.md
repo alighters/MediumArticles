@@ -1,3 +1,6 @@
+### 2017-03-25<br>
++ [Understanding ES6 Classes – devengage – Medium](https://medium.com/papdit/understanding-es6-classes-ada7c14e0213#.xk049ienb)<br>
+
 ### 2017-03-23<br>
 + [Test Driven Android Development](https://android.jlelse.eu/test-driven-android-development-a902b4f69820#.s83fdl5ve)<br>
 + [Let’s implement Android Data Binding library in your android app](https://android.jlelse.eu/lets-implement-android-data-binding-in-your-android-app-d6c567c242c9#.9yxkdskkw)<br>
