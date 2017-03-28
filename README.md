@@ -1,3 +1,6 @@
+### 2017-03-28<br>
++ [Android 进程常驻（0）----MarsDaemon使用说明 - 猫九爷阳果果 - 博客频道 - CSDN.NET](http://blog.csdn.net/marswin89/article/details/50917098)<br>
+
 ### 2017-03-27<br>
 + [Android 加快apk的构建速度，如何把编译时间从130秒降到17秒](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822456&idx=1&sn=10c554676ce9cd0efb35bfda8e70c10f&chksm=80b783a6b7c00ab049e2e38b4913f54d672c3e74cda01ec79b1afa1c0ff6d618222a62f90b93&mpshare=1&scene=23&srcid=0327o7cdOGmxlHbsOazgzDQc%23rd)<br>
 
