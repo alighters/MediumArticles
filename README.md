@@ -1,3 +1,6 @@
+### 2017-04-06<br>
++ [深入Android渲染机制 - Chauncey的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/ccj659/article/details/53219288)<br>
+
 ### 2017-04-05<br>
 + [Android 性能分析工具的使用 - 简书](http://www.jianshu.com/p/cf8c1c43bbae)<br>
 + [Java堆：Shallow Size和Retained Size - __kingzone__的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kingzone_2008/article/details/9083327)<br>
