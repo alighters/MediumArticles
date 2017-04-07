@@ -1,3 +1,6 @@
+### 2017-04-07<br>
++ [Android 基于Message的进程间通信 Messenger完全解析 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0723/3216.html)<br>
+
 ### 2017-04-06<br>
 + [深入Android渲染机制 - Chauncey的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/ccj659/article/details/53219288)<br>
 
