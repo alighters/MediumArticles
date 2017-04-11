@@ -1,3 +1,6 @@
+### 2017-04-11<br>
++ [Android应用程序与SurfaceFlinger服务的关系概述和学习计划 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/7846923)<br>
+
 ### 2017-04-10<br>
 + [Android开发之SurfaceView详解 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1201/656.html)<br>
 
