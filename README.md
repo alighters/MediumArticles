@@ -1,4 +1,5 @@
 ### 2017-04-18<br>
++ [Android IPC - Binder 学习总结 - 简书](http://www.jianshu.com/p/62a07a5c76e5)<br>
 + [Android的IPC机制-Binder](http://www.developersite.org/905-118608-android)<br>
 
 ### 2017-04-17<br>
