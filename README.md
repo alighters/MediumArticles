@@ -1,3 +1,6 @@
+### 2017-04-19<br>
++ [Android开发实践：JNI层线程回调Java函数示例 - Jhuster的专栏 - 51CTO技术博客](http://ticktick.blog.51cto.com/823160/1358558)<br>
+
 ### 2017-04-18<br>
 + [Android IPC - Binder 学习总结 - 简书](http://www.jianshu.com/p/62a07a5c76e5)<br>
 + [Android的IPC机制-Binder](http://www.developersite.org/905-118608-android)<br>
