@@ -1,3 +1,6 @@
+### 2017-04-22<br>
++ [Android Bitmap和Canvas学习笔记 - feisky - 博客园](http://www.cnblogs.com/feisky/archive/2010/01/10/1643460.html)<br>
+
 ### 2017-04-19<br>
 + [Android开发实践：JNI层线程回调Java函数示例 - Jhuster的专栏 - 51CTO技术博客](http://ticktick.blog.51cto.com/823160/1358558)<br>
 
