@@ -1,4 +1,5 @@
 ### 2017-04-26<br>
++ [JavaScript巧学巧用 - 简书](http://www.jianshu.com/p/043fa8dacb68?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 + [C++探索之旅 | 第一部分第二课：C++编程的必要软件 - 简书](http://www.jianshu.com/p/bcdfbf661888?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)<br>
 
 ### 2017-04-22<br>
