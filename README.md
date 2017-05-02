@@ -1,3 +1,6 @@
+### 2017-05-02<br>
++ [Android应用程序启动过程源代码分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/6689748)<br>
+
 ### 2017-04-28<br>
 + [Android资源管理框架（Asset Manager）简要介绍和学习计划 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/8738877)<br>
 
