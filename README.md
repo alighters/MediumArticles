@@ -1,3 +1,6 @@
+### 2017-05-03<br>
++ [Android系统在新进程中启动自定义服务过程（startService）的原理分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/6677029)<br>
+
 ### 2017-05-02<br>
 + [Android应用程序启动过程源代码分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/6689748)<br>
 
