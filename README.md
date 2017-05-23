@@ -1,4 +1,5 @@
 ### 2017-05-23<br>
++ [Kotlin is like TypeScript](https://gi-no.github.io/kotlin-is-like-typescript/)<br>
 + [开发必备—你应该知道的一些 ADB 命令 – 项目经验积累与分享](http://aes.jypc.org/?p=4459)<br>
 
 ### 2017-05-09<br>
