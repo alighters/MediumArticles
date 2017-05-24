@@ -1,3 +1,6 @@
+### 2017-05-24<br>
++ [Writing a Todo app with Redux on Android – Trikita – Medium](https://medium.com/@trikita/writing-a-todo-app-with-redux-on-android-5de31cfbdb4f)<br>
+
 ### 2017-05-23<br>
 + [Kotlin is like TypeScript](https://gi-no.github.io/kotlin-is-like-typescript/)<br>
 + [开发必备—你应该知道的一些 ADB 命令 – 项目经验积累与分享](http://aes.jypc.org/?p=4459)<br>
