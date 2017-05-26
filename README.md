@@ -1,3 +1,6 @@
+### 2017-05-26<br>
++ [Why You Must Try Kotlin For Android Development ? – Mindorks](https://blog.mindorks.com/why-you-must-try-kotlin-for-android-development-e14d00c8084b)<br>
+
 ### 2017-05-24<br>
 + [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)<br>
 + [Writing a Todo app with Redux on Android – Trikita – Medium](https://medium.com/@trikita/writing-a-todo-app-with-redux-on-android-5de31cfbdb4f)<br>
