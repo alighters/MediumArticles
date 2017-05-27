@@ -1,3 +1,6 @@
+### 2017-05-27<br>
++ [Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)<br>
+
 ### 2017-05-26<br>
 + [Working with the Command Line Compiler - Kotlin Programming Language](https://kotlinlang.org/docs/tutorials/command-line.html)<br>
 + [Resources to Learn Kotlin | Android Developers](https://developer.android.com/kotlin/resources.html#documentation)<br>
