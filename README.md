@@ -1,4 +1,5 @@
 ### 2017-05-28<br>
++ [Mindorks | Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)<br>
 + [Mindorks | Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-data-class)<br>
 
 ### 2017-05-27<br>
