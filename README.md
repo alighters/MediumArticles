@@ -1,3 +1,6 @@
+### 2017-05-28<br>
++ [Mindorks | Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-data-class)<br>
+
 ### 2017-05-27<br>
 + [Hello, world! - Kotlin - Confluence](https://confluence.jetbrains.com/pages/viewpage.action?pageId=40701079)<br>
 + [Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-lateinit-vs-lazy)<br>
