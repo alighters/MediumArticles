@@ -1,3 +1,6 @@
+### 2017-05-31<br>
++ [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)<br>
+
 ### 2017-05-28<br>
 + [Mindorks | Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-apply-vs-with)<br>
 + [Mindorks | Become a complete and happy Android developer](https://mindorks.com/blog/learn-kotlin-destructuring-declarations)<br>
