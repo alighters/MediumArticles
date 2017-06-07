@@ -1,4 +1,5 @@
 ### 2017-06-07<br>
++ [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)<br>
 + [Returns and Jumps - Kotlin Programming Language](https://kotlinlang.org/docs/reference/returns.html)<br>
 
 ### 2017-06-01<br>
