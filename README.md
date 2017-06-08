@@ -1,3 +1,6 @@
+### 2017-06-08<br>
++ [How we made Basecamp 3’s Android app 100% Kotlin – Signal v. Noise](https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12)<br>
+
 ### 2017-06-07<br>
 + [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)<br>
 + [Returns and Jumps - Kotlin Programming Language](https://kotlinlang.org/docs/reference/returns.html)<br>
