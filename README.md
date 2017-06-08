@@ -1,4 +1,5 @@
 ### 2017-06-08<br>
++ [Some of my favorite Kotlin features (that we use a lot in Basecamp)](https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95)<br>
 + [How we made Basecamp 3’s Android app 100% Kotlin – Signal v. Noise](https://m.signalvnoise.com/how-we-made-basecamp-3s-android-app-100-kotlin-35e4e1c0ef12)<br>
 
 ### 2017-06-07<br>
