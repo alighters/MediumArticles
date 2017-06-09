@@ -1,4 +1,5 @@
 ### 2017-06-09<br>
++ [如何快速正确的安装 Ruby, Rails 运行环境 · Ruby China](https://ruby-china.org/wiki/install_ruby_guide)<br>
 + [11.4.6 其他移动光标的技巧 - 51CTO.COM](http://book.51cto.com/art/201205/337185.htm)<br>
 
 ### 2017-06-08<br>
