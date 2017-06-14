@@ -1,3 +1,6 @@
+### 2017-06-14<br>
++ [20 Excellent Resources for Learning Kotlin - Tutorialzine](https://tutorialzine.com/2017/05/20-excellent-resources-for-learning-kotlin?utm_term=0_4eb677ad19-97e2bb2890-337838825&utm_content=bufferafd73&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)<br>
+
 ### 2017-06-13<br>
 + [Background Processing in Android – Lateral View – Medium](https://medium.com/lateral-view/background-processing-in-android-575fd4ecf769)<br>
 
