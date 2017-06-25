@@ -1,3 +1,6 @@
+### 2017-06-25<br>
++ [学会编写Android Studio插件 别停留在用的程度了 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/51548272)<br>
+
 ### 2017-06-20<br>
 + [alibaba/ARouter: A android router middleware that help app navigating to activities and custom services.](https://github.com/alibaba/ARouter)<br>
 
