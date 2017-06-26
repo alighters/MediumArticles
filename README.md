@@ -1,3 +1,6 @@
+### 2017-06-26<br>
++ [Building an Android Settings Screen (Part 1) – Jakob Ulbrich – Medium](https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-1-5959aa49337c)<br>
+
 ### 2017-06-25<br>
 + [学会编写Android Studio插件 别停留在用的程度了 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/51548272)<br>
 
